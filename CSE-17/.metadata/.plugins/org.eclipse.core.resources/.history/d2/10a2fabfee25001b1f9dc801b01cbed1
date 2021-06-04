@@ -1,0 +1,240 @@
+
+import java.util.ListIterator;
+import java.util.NoSuchElementException;
+
+public class DoublyLinkedList<E> {
+	// Data members
+	public Node head, tail;
+	int size;
+
+	// Inner class Node - O(1)
+	public class Node {
+		E value;
+		Node next;
+		Node previous;
+		Node(E initialValue) {
+			value = initialValue;
+			next = null;
+			previous = null;
+		}
+	}
+
+	// Constructor - O(1)
+	public DoublyLinkedList() {
+		head = tail = null;
+		size = 0;
+	}
+
+	public boolean addFirst(E item) {
+		Node newNode = new Node(item);
+		if (head == null) {
+			head = tail = newNode;
+		} else {
+			newNode.next = head;
+			head = newNode;
+		}
+		size++;
+		return true;
+	}
+
+	public boolean addLast(E item) {
+		Node newNode = new Node(item);
+		if (head == null) {
+			head = tail = newNode;
+		} else {
+			tail.next = newNode;
+			tail = newNode;
+		}
+		size++;
+		return true;
+	}
+
+	public boolean add(E item) {
+		return addLast(item);
+	}
+
+	// Retrieving an item from the list
+	public E getFirst() {
+		if (head == null)
+			throw new NoSuchElementException();
+		return head.value;
+	}
+
+	public E getLast() {
+		if (head == null)
+			throw new NoSuchElementException();
+		return tail.value;
+	}
+
+	// Removing an item from the list
+	public boolean removeFirst() {
+		if (head == null)
+			throw new NoSuchElementException();
+		head = head.next;
+		if (head == null)
+			tail = null;
+		size--;
+		return true;
+	}
+
+	public boolean removeLast() {
+		if (head == null)
+			throw new NoSuchElementException();
+		if (size == 1)
+			return removeFirst();
+		Node current = head;
+		Node previous = null;
+		while (current.next != null) {
+			previous = current;
+			current = current.next;
+		}
+		previous.next = null;
+		tail = previous;
+		size--;
+		return true;
+	}
+
+	// toString() method
+	public String toString() {
+		String output = "[";
+		Node current = head;
+		while (current != null) {
+			output += current.value + " ";
+			current = current.next;
+		}
+		output += "]";
+		return output;
+	}
+
+	// clear, check if empty, and size of the list
+	public void clear() {
+		head = tail = null;
+		size = 0;
+	}
+
+	public boolean isEmpty() {
+		return (size == 0);
+	}
+
+	public int size() {
+		return size;
+	}
+
+	private int indexOf(Node node) {
+		int index = 0;
+		Node current = head;
+		while (current != null) {
+			if (current.value.equals(node)) {
+				return index;
+			}
+			current = current.next;
+			index++;
+			// System.out.println(current.value.toString());
+		}
+		return -1;
+	}
+
+	public ListIterator<E> iterator() {
+		return new DoublyLinkedListIterator();
+	}
+
+	public ListIterator<E> iterator(int index) {
+		return new DoublyLinkedListIterator(index);
+	}
+
+	private class DoublyLinkedListIterator implements ListIterator<E> {
+		private Node current;
+
+		// Constructors
+		DoublyLinkedListIterator() {
+			current = head;
+		}
+
+		public DoublyLinkedListIterator(int index) {
+			if (index < 0 || index > size)
+				throw new ArrayIndexOutOfBoundsException();
+			current = head;
+			for (int i = 0; i < index; i++) {
+				current = current.next;
+			} // after the for loop, current is pointing to the element at position index
+		}
+
+		public E next() {
+			if (current == null)
+				throw new NoSuchElementException();
+			E value = current.value;
+			current = current.next;
+			return value;
+		}
+
+		public E previous() {
+            if (current == null) {
+                throw new NoSuchElementException();
+            }
+                E value = current.value;
+                current = current.previous;
+                return value;
+        }
+
+		public int nextIndex() {
+			if (current == null)
+				throw new NoSuchElementException();
+			int currentIndex = indexOf(current);
+			return currentIndex + 1;
+		}
+
+		public int previousIndex() {
+			if (current == null)
+				throw new NoSuchElementException();
+			int currentIndex = indexOf(current);
+			return currentIndex - 1;
+		}
+
+		public void set(E e) {
+			if (current == null)
+				throw new UnsupportedOperationException();
+			Node newE = new Node(e);
+			current = newE;
+		}
+
+		public void remove() {
+			if (current == null)
+				throw new UnsupportedOperationException();
+			int indexOfCurrent = indexOf(current);
+			Node current = head;
+			Node previous = null;
+			for (int i = 0; i < indexOfCurrent; i++) {
+				previous = current;
+				current = current.next;
+			}
+			@SuppressWarnings("unused")
+			Node temp = current;
+			current = current.next;
+			while (current.next != null) {
+				previous = current;
+				current = current.next;
+			}
+			tail = previous;
+			size--;
+		}
+
+		public boolean hasPrevious() {
+			return (current != null);
+		}
+
+		public boolean hasNext() {
+			return (current != null);
+		}
+
+		public void add(E e) {
+			Node newNode = new Node(e);
+			if (head == null) {
+				head = tail = newNode;
+			} else {
+				newNode.next = head;
+				head = newNode;
+			}
+			size++;
+		}
+	}
+}

@@ -1,0 +1,23 @@
+INDEX VERSION 1.131+G:\Users\Alex\Documents\Java\.metadata\.plugins\org.eclipse.jdt.core
+4009963450.index
+780015621.index
+2666450434.index
+3646283861.index
+3616434279.index
+132620216.index
+9067425.index
+2575501851.index
+2839483610.index
+1015972514.index
+3228596521.index
+1079816687.index
+1578429578.index
+3924426388.index
+928743801.index
+3751831618.index
+2005756727.index
+3966325044.index
+1326539082.index
+3728221260.index
+3078048191.index
+2693355761.index
