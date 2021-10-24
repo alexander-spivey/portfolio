@@ -9,7 +9,7 @@ public class Trees{
     System.out.println("     /#|#\\          /#|#\\     ");
     System.out.println("    /##|##\\        /##|##\\    ");
     System.out.println("   /###|###\\      /###|###\\   ");
-    System.out.println("       |              |       ");
-    System.out.println("       |              |       ");
+    System.out.println("       |               |       ");
+    System.out.println("       |               |       ");
   }
 }
