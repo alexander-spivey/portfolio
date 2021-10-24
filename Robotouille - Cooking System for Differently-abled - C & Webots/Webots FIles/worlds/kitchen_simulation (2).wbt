@@ -1,0 +1,89 @@
+#VRML_SIM R2021b utf8
+WorldInfo {
+  coordinateSystem "NUE"
+}
+Viewpoint {
+  orientation 0.4936204453457537 -0.7145763868475404 -0.4957009615651092 4.390840285975174
+  position 8.869000309785166 18.763927869755584 5.630349078010662
+}
+TexturedBackground {
+}
+TexturedBackgroundLight {
+}
+RectangleArena {
+  translation 2.07782 -6.70131e-13 5.69754
+  floorSize 5 6
+  floorTileSize 1 1
+  wallThickness 0.2
+  wallHeight 2.4
+}
+WoodenChair {
+  translation 2.95927 3.01981e-14 6.26804
+  rotation 0 -1 0 -1.5707953071795862
+}
+Fridge {
+  hidden position_0_0 -1.9303875860766066e-08
+  hidden position_0_1 2.0373697727696034e-08
+  translation -0.0861271 1.03918e-13 7.94625
+}
+WoodenChair {
+  translation 3.97379 3.55271e-15 6.22249
+  rotation 0 1 0 -1.5707953071795862
+  name "wooden chair(2)"
+}
+WoodenChair {
+  translation 3.96062 -7.10543e-15 5.52161
+  rotation 0 1 0 -1.5707953071795862
+  name "wooden chair(3)"
+}
+Table {
+  translation 3.51223 -7.10543e-15 5.87242
+  rotation 0 1 0 1.5708
+}
+WoodenChair {
+  translation 2.91999 8.88183e-15 5.46786
+  rotation 0 1 0 1.5708
+  name "wooden chair(1)"
+}
+Door {
+  hidden translation_5 8.485923075340907e-11 0 0.0010000002705244093
+  translation 2.16932 1.06582e-14 2.575
+  position -5.695250689779614e-10
+}
+Worktop {
+  translation -0.116526 0.4 5.93333
+  size 0.36 0.64 3.2
+  appearance Marble {
+    colorOverride 0.423178 0.420768 0.425605
+  }
+}
+Sink {
+  translation -0.214517 0.72 5.86294
+  rotation 0 1 0 -1.5707953071795862
+}
+Cabinet {
+  hidden position_6_0 4.4843570297113014e-14
+  hidden position_10_0 -2.7603892679356403e-14
+  translation -0.396389 2.13163e-14 3.36639
+  rotation 0 1 0 1.5708
+}
+Oven {
+  hidden position_0_0 1.1832113310488393e-20
+  translation -0.148991 0.34 4.04731
+}
+HotPlate {
+  translation -0.119459 0.71 4.17687
+}
+Pedestrian {
+  translation 2.36008 1.27 3.54336
+}
+CeilingLight {
+  translation 1.8896 2.4 5.78013
+}
+PortraitPainting {
+  translation 4.56742 1.5 5.91827
+  rotation -2.336819999987239e-06 0.9999999999945393 -2.336819999987239e-06 -1.5707953071795862
+}
+BunchOfSunFlowers {
+  translation 3.55032 0.6 5.86126
+}

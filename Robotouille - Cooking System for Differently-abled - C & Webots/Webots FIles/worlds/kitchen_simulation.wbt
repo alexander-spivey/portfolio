@@ -1,0 +1,71 @@
+#VRML_SIM R2021b utf8
+WorldInfo {
+  coordinateSystem "NUE"
+}
+Viewpoint {
+  orientation -0.485834736623034 0.7300755628641163 0.480577029412633 1.8572252052584215
+  position 7.643157169671534 18.19515275272755 5.553895095844281
+}
+TexturedBackground {
+}
+TexturedBackgroundLight {
+}
+RectangleArena {
+  translation 2.0329 -2.98872e-13 5.6965
+  floorSize 5 6
+  floorTileSize 1 1
+  wallThickness 0.2
+  wallHeight 2.4
+}
+WoodenChair {
+  translation 2.95927 3.01981e-14 6.26804
+  rotation 0 -1 0 -1.5707953071795862
+}
+Fridge {
+  hidden position_0_0 -9.651937931528994e-09
+  hidden position_0_1 1.018684878940487e-08
+  translation -0.0861271 1.03918e-13 7.94625
+}
+WoodenChair {
+  translation 3.97379 3.55271e-15 6.22249
+  rotation 0 1 0 -1.5707953071795862
+  name "wooden chair(2)"
+}
+WoodenChair {
+  translation 3.96062 -7.10543e-15 5.52161
+  rotation 0 1 0 -1.5707953071795862
+  name "wooden chair(3)"
+}
+Table {
+  translation 3.51223 -7.10543e-15 5.87242
+  rotation 0 1 0 1.5708
+}
+WoodenChair {
+  translation 2.91999 8.88183e-15 5.46786
+  rotation 0 1 0 1.5708
+  name "wooden chair(1)"
+}
+Door {
+  translation 2.16932 1.06582e-14 2.575
+}
+Worktop {
+  translation -0.116526 0.4 5.93333
+  size 0.36 0.64 3.2
+  appearance Marble {
+    colorOverride 0.423178 0.420768 0.425605
+  }
+}
+Sink {
+  translation -0.214517 0.72 5.86294
+  rotation 0 1 0 -1.5707953071795862
+}
+Cabinet {
+  translation -0.396389 2.13163e-14 3.36639
+  rotation 0 1 0 1.5708
+}
+Oven {
+  translation -0.148991 0.34 4.04731
+}
+HotPlate {
+  translation -0.119459 0.71 4.17687
+}
