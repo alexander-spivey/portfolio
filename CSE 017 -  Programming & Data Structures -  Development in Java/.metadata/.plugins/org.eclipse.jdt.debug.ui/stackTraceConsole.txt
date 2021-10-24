@@ -1,0 +1,2 @@
+Instantiate the class BST for the type Country and name the class instance
+CountryBST
