@@ -1,0 +1,27 @@
+scala> :load p1.scala
+Loading p1.scala...
+import org.apache.spark.util.StatCounter
+import org.apache.spark.sql._
+defined object p1
+
+scala> p1
+res34: p1.type = p1$@27372c4e
+
+scala> p1.rawblocks
+<console>:30: error: value rawblocks is not a member of object p1
+       p1.rawblocks
+          ^
+
+scala> p1.main
+   def main(args: Array[String]): Unit
+
+scala> p1.main
+<console>:30: error: missing argument list for method main in object p1
+Unapplied methods are only converted to functions when a function type is expected.
+You can make this conversion explicit by writing `main _` or `main(_)` instead of `main`.
+       p1.main
+          ^
+
+scala> p1.main(_)
+res37: Array[String] => Unit = $Lambda$3374/0x00000008411ba040@7056d1eb
+

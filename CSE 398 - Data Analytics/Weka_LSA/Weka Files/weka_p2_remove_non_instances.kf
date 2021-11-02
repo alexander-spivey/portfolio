@@ -1,0 +1,70 @@
+{
+	"flow_name" : "weka_p2_remove_non_instances",
+	"steps" : [
+		{
+			"class" : "weka.knowledgeflow.steps.Loader",
+			"properties" : {
+				"loader" : {
+					"type" : "loader",
+					"class" : "weka.core.converters.CSVLoader",
+					"filePath" : "C:/Users/Alex/Desktop/Failed Attempts/OFFICIAL_text_emotion - Copy.csv",
+					"useRelativePath" : false,
+					"options" : "-format \"yyyy-MM-dd\\'T\\'HH:mm:ss\" -M ? -B 100 -E \"\\\",\\'\" -F ,"
+				},
+				"name" : "CSVLoader"
+			},
+			"connections" : {
+				"dataSet" : [
+					"RemoveRange"
+				]
+			},
+			"coordinates" : "68,61"
+		},
+		{
+			"class" : "weka.knowledgeflow.steps.Filter",
+			"properties" : {
+				"filter" : {
+					"type" : "optionHandler",
+					"class" : "weka.filters.unsupervised.instance.RemoveRange",
+					"options" : "-V -R 1-13"
+				},
+				"name" : "RemoveRange"
+			},
+			"connections" : {
+				"dataSet" : [
+					"TextViewer",
+					"CSVSaver"
+				]
+			},
+			"coordinates" : "226,73"
+		},
+		{
+			"class" : "weka.knowledgeflow.steps.Saver",
+			"properties" : {
+				"name" : "CSVSaver",
+				"relationNameForFilename" : true,
+				"saver" : {
+					"type" : "saver",
+					"class" : "weka.core.converters.CSVSaver",
+					"filePath" : "",
+					"dir" : "C:/Users/Alex/Desktop",
+					"prefix" : "",
+					"useRelativePath" : false,
+					"options" : "-F , -M ? -decimal 6"
+				}
+			},
+			"connections" : {
+			},
+			"coordinates" : "424,60"
+		},
+		{
+			"class" : "weka.knowledgeflow.steps.TextViewer",
+			"properties" : {
+				"name" : "TextViewer"
+			},
+			"connections" : {
+			},
+			"coordinates" : "229,199"
+		}
+	]
+}

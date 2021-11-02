@@ -1,0 +1,171 @@
+noheader.take(10).foreach(println)
+607,53170,1,?,1,?,1,1,1,1,1,TRUE                                                
+88569,88592,1,?,1,?,1,1,1,1,1,TRUE
+21282,26255,1,?,1,?,1,1,1,1,1,TRUE
+20995,42541,1,?,1,?,1,1,1,1,1,TRUE
+27989,34739,1,?,1,?,1,1,1,1,1,TRUE
+32442,69159,1,?,1,?,1,1,1,1,1,TRUE
+24738,29196,1,1,1,?,1,1,1,1,1,TRUE
+9904,89061,1,?,1,?,1,1,1,1,1,TRUE
+29926,36578,1,?,1,?,1,1,1,1,1,TRUE
+27815,46246,1,?,1,?,1,1,1,1,1,TRUE
+
+scala> noheader.first
+res13: String = 607,53170,1,?,1,?,1,1,1,1,1,TRUE
+
+scala> val firstLine = noheader.first
+firstLine: String = 607,53170,1,?,1,?,1,1,1,1,1,TRUE
+
+scala> val firstLineAray = line.split(',')
+<console>:23: error: not found: value line
+       val firstLineAray = line.split(',')
+                           ^
+
+scala> val firstLineAray = firstLine.split(',')
+firstLineAray: Array[String] = Array(607, 53170, 1, ?, 1, ?, 1, 1, 1, 1, 1, TRUE)
+
+scala> val firstLineArray = firstLine.split(',')
+firstLineArray: Array[String] = Array(607, 53170, 1, ?, 1, ?, 1, 1, 1, 1, 1, TRUE)
+
+scala> firstLineArray.println
+<console>:26: error: value println is not a member of Array[String]
+       firstLineArray.println
+                      ^
+
+scala> firstLineArray.foreach(println)
+607
+53170
+1
+?
+1
+?
+1
+1
+1
+1
+1
+TRUE
+
+scala> val id1 = firstLineArray(0).toInt
+id1: Int = 607
+
+scala> val id2 = firstLineArray(1).toInt
+id2: Int = 53170
+
+scala> val matchedCase = firstLineArray(11).toBoolean
+matchedCase: Boolean = true
+
+scala> val rawScoresFLA = firstLineArray.slice(2,11)
+rawScoresFLA: Array[String] = Array(1, ?, 1, ?, 1, 1, 1, 1, 1)
+
+scala> rawScoresFLA.map(s => s.toDouble)
+java.lang.NumberFormatException: For input string: "?"
+  at java.base/jdk.internal.math.FloatingDecimal.readJavaFormatString(FloatingDecimal.java:2054)
+  at java.base/jdk.internal.math.FloatingDecimal.parseDouble(FloatingDecimal.java:110)
+  at java.base/java.lang.Double.parseDouble(Double.java:543)
+  at scala.collection.immutable.StringLike.toDouble(StringLike.scala:321)
+  at scala.collection.immutable.StringLike.toDouble$(StringLike.scala:321)
+  at scala.collection.immutable.StringOps.toDouble(StringOps.scala:33)
+  at $anonfun$res16$1(<console>:26)
+  at $anonfun$res16$1$adapted(<console>:26)
+  at scala.collection.TraversableLike.$anonfun$map$1(TraversableLike.scala:238)
+  at scala.collection.IndexedSeqOptimized.foreach(IndexedSeqOptimized.scala:36)
+  at scala.collection.IndexedSeqOptimized.foreach$(IndexedSeqOptimized.scala:33)
+  at scala.collection.mutable.ArrayOps$ofRef.foreach(ArrayOps.scala:198)
+  at scala.collection.TraversableLike.map(TraversableLike.scala:238)
+  at scala.collection.TraversableLike.map$(TraversableLike.scala:231)
+  at scala.collection.mutable.ArrayOps$ofRef.map(ArrayOps.scala:198)
+  ... 47 elided
+
+scala> def toDouble(s: String) = {
+     | if("?".equals(s)) Double.NaN
+     | else
+     | s.toDouble
+     | }
+toDouble: (s: String)Double
+
+scala> val scoresFLA = rawScoresFLA.map(toDouble)
+scoresFLA: Array[Double] = Array(1.0, NaN, 1.0, NaN, 1.0, 1.0, 1.0, 1.0, 1.0)
+
+scala> def parse(line:String) = {
+     | val pieces = line.split(',')
+     | val id1 = firstLineArray(0).toInt
+     | val id2 = firstLineArray(1).toInt
+     | val scores = pieces.slice(2,11).map(toDouble)
+     | val matched = pieces(11).toBoolean
+     | (id1, id2, scores, matched)
+     | }
+parse: (line: String)(Int, Int, Array[Double], Boolean)
+
+scala> val tup = parse(rawScoresFLA)
+<console>:27: error: type mismatch;
+ found   : Array[String]
+ required: String
+       val tup = parse(rawScoresFLA)
+                       ^
+
+scala> val tup = parse(firstLine)
+tup: (Int, Int, Array[Double], Boolean) = (607,53170,Array(1.0, NaN, 1.0, NaN, 1.0, 1.0, 1.0, 1.0, 1.0),true)
+
+scala> tup._1
+res17: Int = 607
+
+scala> tup._2
+res18: Int = 53170
+
+scala> tup.productElement(0)
+res19: Any = 607
+
+scala> tup.productElement(1)
+res20: Any = 53170
+
+scala> tup.productArity
+res21: Int = 4
+
+scala> int tupLength = tup.productArity
+<console>:25: error: not found: value int
+       int tupLength = tup.productArity
+       ^
+<console>:26: error: not found: value int
+       val $ires6 = int.tupLength
+                    ^
+
+scala> val tupLength = tup.productArity
+tupLength: Int = 4
+
+scala> case class MatchData(id1:Int, id2: Int, scores: Array[Double], matched: Boolean)
+defined class MatchData
+
+scala> def parse(line:String) = {
+     | val pieces = line.split(',')
+     | val id1 = pieces(0).toInt
+     | val id2 = pieces(1).toInt
+     | val scores = pieces.slice(2,11).map(toDouble)
+     | val matched = pieces(11).toBoolean
+     | MatchData(id1, id2, scores, matched)
+     | }
+parse: (line: String)MatchData
+
+scala> val md = parse(firstLine)
+md: MatchData = MatchData(607,53170,[D@7efada78,true)
+
+scala> md.matched
+res24: Boolean = true
+
+scala> md.scores
+res25: Array[Double] = Array(1.0, NaN, 1.0, NaN, 1.0, 1.0, 1.0, 1.0, 1.0)
+
+scala> md.id1
+res26: Int = 607
+
+scala> val mds = head.filter(!isHeader(_)).map(parse(_))
+mds: Array[MatchData] = Array(MatchData(607,53170,[D@49c3f2d5,true), MatchData(88569,88592,[D@422b7a6c,true), MatchData(21282,26255,[D@8ba637c,true), MatchData(20995,42541,[D@2e37373b,true), MatchData(27989,34739,[D@78b42d72,true), MatchData(32442,69159,[D@6155c012,true), MatchData(24738,29196,[D@3aafeec7,true), MatchData(9904,89061,[D@2d368846,true), MatchData(29926,36578,[D@7430ef2f,true))
+
+scala> val parsed = noheader.map(line => parse(line))
+parsed: org.apache.spark.rdd.RDD[MatchData] = MapPartitionsRDD[5] at map at <console>:27
+
+scala> parsed.cache()
+res27: parsed.type = MapPartitionsRDD[5] at map at <console>:27
+
+scala> parsed.take(10)
+res32: Array[MatchData] = Array(MatchData(607,53170,[D@77eee1fc,true), MatchData(88569,88592,[D@19b47ade,true), MatchData(21282,26255,[D@4cbe0324,true), MatchData(20995,42541,[D@655020fb,true), MatchData(27989,34739,[D@65b1dcac,true), MatchData(32442,69159,[D@5f69284e,true), MatchData(24738,29196,[D@63f2a7a4,true), MatchData(9904,89061,[D@7c104d9,true), MatchData(29926,36578,[D@6cfeec31,true), MatchData(27815,46246,[D@7ac392b8,true))

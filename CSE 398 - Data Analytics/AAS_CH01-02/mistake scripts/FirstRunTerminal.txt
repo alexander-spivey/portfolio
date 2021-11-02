@@ -1,0 +1,207 @@
+scala> aspiv@aspiv-VirtualBox:~/Classes/CSE398/AAS_CH01$ spark-shell --master local[*] --driver-memory 4g
+21/08/25 16:10:59 WARN Utils: Your hostname, aspiv-VirtualBox resolves to a loopback address: 127.0.1.1; using 10.0.2.15 instead (on interface enp0s3)
+21/08/25 16:10:59 WARN Utils: Set SPARK_LOCAL_IP if you need to bind to another address
+WARNING: An illegal reflective access operation has occurred
+WARNING: Illegal reflective access by org.apache.spark.unsafe.Platform (file:/opt/spark/jars/spark-unsafe_2.12-3.1.2.jar) to constructor java.nio.DirectByteBuffer(long,int)
+WARNING: Please consider reporting this to the maintainers of org.apache.spark.unsafe.Platform
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+21/08/25 16:10:59 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Using Spark's default log4j profile: org/apache/spark/log4j-defaults.properties
+Setting default log level to "WARN".
+To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).
+Spark context Web UI available at http://10.0.2.15:4040
+Spark context available as 'sc' (master = local[*], app id = local-1629925865790).
+Spark session available as 'spark'.
+Welcome to
+      ____              __
+     / __/__  ___ _____/ /__
+    _\ \/ _ \/ _ `/ __/  '_/
+   /___/ .__/\_,_/_/ /_/\_\   version 3.1.2
+      /_/
+         
+Using Scala version 2.12.10 (OpenJDK 64-Bit Server VM, Java 11.0.11)
+Type in expressions to have them evaluated.
+Type :help for more information.
+
+scala> val rawblocks = sc.textFile("linkage/csv")
+rawblocks: org.apache.spark.rdd.RDD[String] = linkage/csv MapPartitionsRDD[1] at textFile at <console>:24
+
+scala> rawblocks.first
+res0: String = "id_1","id_2","cmp_fname_c1","cmp_fname_c2","cmp_lname_c1","cmp_lname_c2","cmp_sex","cmp_bd","cmp_bm","cmp_by","cmp_plz","is_match"
+
+scala> val head = rawblocks.take(10)
+head: Array[String] = Array("id_1","id_2","cmp_fname_c1","cmp_fname_c2","cmp_lname_c1","cmp_lname_c2","cmp_sex","cmp_bd","cmp_bm","cmp_by","cmp_plz","is_match", 607,53170,1,?,1,?,1,1,1,1,1,TRUE, 88569,88592,1,?,1,?,1,1,1,1,1,TRUE, 21282,26255,1,?,1,?,1,1,1,1,1,TRUE, 20995,42541,1,?,1,?,1,1,1,1,1,TRUE, 27989,34739,1,?,1,?,1,1,1,1,1,TRUE, 32442,69159,1,?,1,?,1,1,1,1,1,TRUE, 24738,29196,1,1,1,?,1,1,1,1,1,TRUE, 9904,89061,1,?,1,?,1,1,1,1,1,TRUE, 29926,36578,1,?,1,?,1,1,1,1,1,TRUE)
+
+scala> head.foreach(println)
+"id_1","id_2","cmp_fname_c1","cmp_fname_c2","cmp_lname_c1","cmp_lname_c2","cmp_sex","cmp_bd","cmp_bm","cmp_by","cmp_plz","is_match"
+607,53170,1,?,1,?,1,1,1,1,1,TRUE
+88569,88592,1,?,1,?,1,1,1,1,1,TRUE
+21282,26255,1,?,1,?,1,1,1,1,1,TRUE
+20995,42541,1,?,1,?,1,1,1,1,1,TRUE
+27989,34739,1,?,1,?,1,1,1,1,1,TRUE
+32442,69159,1,?,1,?,1,1,1,1,1,TRUE
+24738,29196,1,1,1,?,1,1,1,1,1,TRUE
+9904,89061,1,?,1,?,1,1,1,1,1,TRUE
+29926,36578,1,?,1,?,1,1,1,1,1,TRUE
+
+scala> def isHeader(line: String) = line.contains("id_1")
+isHeader: (line: String)Boolean
+
+scala> def isHeader(line: String): Boolean = {line.contains("id_1")}
+isHeader: (line: String)Boolean
+
+scala> head.filter(isHeader).foreach(println)
+"id_1","id_2","cmp_fname_c1","cmp_fname_c2","cmp_lname_c1","cmp_lname_c2","cmp_sex","cmp_bd","cmp_bm","cmp_by","cmp_plz","is_match"
+
+scala> head.filter(!isHeader).foreach(println)
+<console>:28: error: missing argument list for method isHeader
+Unapplied methods are only converted to functions when a function type is expected.
+You can make this conversion explicit by writing `isHeader _` or `isHeader(_)` instead of `isHeader`.
+       head.filter(!isHeader).foreach(println)
+                    ^
+
+scala> head.filterNOT(isHeader).foreach(println)
+<console>:28: error: value filterNOT is not a member of Array[String]
+       head.filterNOT(isHeader).foreach(println)
+            ^
+<console>:28: error: missing argument list for method isHeader
+Unapplied methods are only converted to functions when a function type is expected.
+You can make this conversion explicit by writing `isHeader _` or `isHeader(_)` instead of `isHeader`.
+       head.filterNOT(isHeader).foreach(println)
+                      ^
+
+scala> head.filterNot(isHeader).foreach(println)
+607,53170,1,?,1,?,1,1,1,1,1,TRUE
+88569,88592,1,?,1,?,1,1,1,1,1,TRUE
+21282,26255,1,?,1,?,1,1,1,1,1,TRUE
+20995,42541,1,?,1,?,1,1,1,1,1,TRUE
+27989,34739,1,?,1,?,1,1,1,1,1,TRUE
+32442,69159,1,?,1,?,1,1,1,1,1,TRUE
+24738,29196,1,1,1,?,1,1,1,1,1,TRUE
+9904,89061,1,?,1,?,1,1,1,1,1,TRUE
+29926,36578,1,?,1,?,1,1,1,1,1,TRUE
+
+scala> head.filter(isHeader).foreach(println)
+"id_1","id_2","cmp_fname_c1","cmp_fname_c2","cmp_lname_c1","cmp_lname_c2","cmp_sex","cmp_bd","cmp_bm","cmp_by","cmp_plz","is_match"
+
+scala> head.filterNot(isHeader).foreach(println)
+607,53170,1,?,1,?,1,1,1,1,1,TRUE
+88569,88592,1,?,1,?,1,1,1,1,1,TRUE
+21282,26255,1,?,1,?,1,1,1,1,1,TRUE
+20995,42541,1,?,1,?,1,1,1,1,1,TRUE
+27989,34739,1,?,1,?,1,1,1,1,1,TRUE
+32442,69159,1,?,1,?,1,1,1,1,1,TRUE
+24738,29196,1,1,1,?,1,1,1,1,1,TRUE
+9904,89061,1,?,1,?,1,1,1,1,1,TRUE
+29926,36578,1,?,1,?,1,1,1,1,1,TRUE
+
+scala> head.filterNot(isHeader).foreach(println("\t")
+     | )
+<console>:28: error: type mismatch;
+ found   : Unit
+ required: String => ?
+       head.filterNot(isHeader).foreach(println("\t")
+                                               ^
+
+scala> head.filterNot(isHeader).foreach(println('\t')
+     | )
+<console>:28: error: type mismatch;
+ found   : Unit
+ required: String => ?
+       head.filterNot(isHeader).foreach(println('\t')
+                                               ^
+
+scala> head.filterNot(isHeader).
+     | foreach(println())
+<console>:29: error: type mismatch;
+ found   : Unit
+ required: String => ?
+       foreach(println())
+                      ^
+
+scala> head.filterNot(isHeader).
+     | foreach(println)
+607,53170,1,?,1,?,1,1,1,1,1,TRUE
+88569,88592,1,?,1,?,1,1,1,1,1,TRUE
+21282,26255,1,?,1,?,1,1,1,1,1,TRUE
+20995,42541,1,?,1,?,1,1,1,1,1,TRUE
+27989,34739,1,?,1,?,1,1,1,1,1,TRUE
+32442,69159,1,?,1,?,1,1,1,1,1,TRUE
+24738,29196,1,1,1,?,1,1,1,1,1,TRUE
+9904,89061,1,?,1,?,1,1,1,1,1,TRUE
+29926,36578,1,?,1,?,1,1,1,1,1,TRUE
+
+scala> head.filterNot(isHeader).length
+res12: Int = 9
+
+scala> head.filter(x => !isHeader(x)).length
+res13: Int = 9
+
+scala> head.filter(*isHeader(_)).length
+<console>:26: error: not found: value *
+       head.filter(*isHeader(_)).length
+                   ^
+
+scala> head.filter(!isHeader(_)).length
+res15: Int = 9
+
+scala> head.filter(!isHeader(_)).foreach(println)
+607,53170,1,?,1,?,1,1,1,1,1,TRUE
+88569,88592,1,?,1,?,1,1,1,1,1,TRUE
+21282,26255,1,?,1,?,1,1,1,1,1,TRUE
+20995,42541,1,?,1,?,1,1,1,1,1,TRUE
+27989,34739,1,?,1,?,1,1,1,1,1,TRUE
+32442,69159,1,?,1,?,1,1,1,1,1,TRUE
+24738,29196,1,1,1,?,1,1,1,1,1,TRUE
+9904,89061,1,?,1,?,1,1,1,1,1,TRUE
+29926,36578,1,?,1,?,1,1,1,1,1,TRUE
+
+scala> val noheader = rawblocks.filter(!isHeader(_))
+noheader: org.apache.spark.rdd.RDD[String] = MapPartitionsRDD[2] at filter at <console>:27
+
+scala> noheader.first
+res17: String = 607,53170,1,?,1,?,1,1,1,1,1,TRUE
+
+scala> val noheader = rawblocks.filter(x => !isHeader(x))
+noheader: org.apache.spark.rdd.RDD[String] = MapPartitionsRDD[3] at filter at <console>:27
+
+scala> noheader.first
+res18: String = 607,53170,1,?,1,?,1,1,1,1,1,TRUE
+
+scala> val line = head(1)
+line: String = 607,53170,1,?,1,?,1,1,1,1,1,TRUE
+
+scala> line.first
+<console>:26: error: value first is not a member of String
+       line.first
+            ^
+
+scala> val line = head(0)
+line: String = "id_1","id_2","cmp_fname_c1","cmp_fname_c2","cmp_lname_c1","cmp_lname_c2","cmp_sex","cmp_bd","cmp_bm","cmp_by","cmp_plz","is_match"
+
+scala> val line = head(1)
+line: String = 607,53170,1,?,1,?,1,1,1,1,1,TRUE
+
+scala> val pieces = line.split(',')
+pieces: Array[String] = Array(607, 53170, 1, ?, 1, ?, 1, 1, 1, 1, 1, TRUE)
+
+scala> val id1 = pieces(0).toInt
+id1: Int = 607
+
+scala> val id1 = pieces(1).toInt
+id1: Int = 53170
+
+scala> val matched = pieces(11).toInt
+java.lang.NumberFormatException: For input string: "TRUE"
+  at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+  at java.base/java.lang.Integer.parseInt(Integer.java:652)
+  at java.base/java.lang.Integer.parseInt(Integer.java:770)
+  at scala.collection.immutable.StringLike.toInt(StringLike.scala:304)
+  at scala.collection.immutable.StringLike.toInt$(StringLike.scala:304)
+  at scala.collection.immutable.StringOps.toInt(StringOps.scala:33)
+  ... 47 elided
+
+scala> val matched = pieces(11).toBoolean
+matched: Boolean = true
+
