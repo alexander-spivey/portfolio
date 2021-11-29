@@ -1,0 +1,2 @@
+Once downloaded, please extract the car region logos from the zip folder.
+Once done, please move all car brand folders (subfolders) out of the folder created.

@@ -1,0 +1,7 @@
+Due to the file being over 100 mbs, the dataset can be found online at:
+https://drive.google.com/drive/folders/1tJNlhN2hSqWABPrldnuJ3Nqhms4u8Iep?usp=sharing
+
+Please download the zip, extract it, and move all containing subfolders back within Logo Annotation 
+Dataset.
+
+Thank you

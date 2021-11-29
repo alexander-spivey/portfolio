@@ -1,0 +1,734 @@
+Image #: 0
+	True Bounding Boxes: [361 468 440 543]
+	True Logo Present: Mercedes
+Image #0 Predictions:
+	[364, 477, 428, 536, (64, 59)]
+	Mercedes
+Image #: 1
+	True Bounding Boxes: [348 435 434 546]
+	True Logo Present: Mercedes
+Image #1 Predictions:
+	[359, 445, 429, 537, (70, 92)]
+	Mercedes
+Image #: 2
+	True Bounding Boxes: [395 427 448 504]
+	True Logo Present: Mercedes
+Image #2 Predictions:
+	[292, 394, 599, 507, (307, 113)]
+	Toyota
+Image #: 3
+	True Bounding Boxes: [351 400 447 478]
+	True Logo Present: Mercedes
+Image #3 Predictions:
+	[367, 402, 434, 474, (67, 72)]
+	Mercedes
+Image #: 4
+	True Bounding Boxes: [330 482 459 622]
+	True Logo Present: Mercedes
+Image #4 Predictions:
+	[338, 504, 445, 609, (107, 105)]
+	Mercedes
+Image #: 5
+	True Bounding Boxes: [322 386 471 481]
+	True Logo Present: Mercedes
+Image #5 Predictions:
+	[339, 396, 461, 473, (122, 77)]
+	Mercedes
+Image #: 6
+	True Bounding Boxes: [522 387 608 472]
+	True Logo Present: Mercedes
+Image #6 Predictions:
+	[532, 396, 609, 470, (77, 74)]
+	Mercedes
+Image #: 7
+	True Bounding Boxes: [448 430 512 532]
+	True Logo Present: Mercedes
+Image #7 Predictions:
+	[456, 466, 506, 529, (50, 63)]
+	Mercedes
+Image #: 8
+	True Bounding Boxes: [362 394 434 513]
+	True Logo Present: Mercedes
+Image #8 Predictions:
+	[377, 417, 430, 516, (53, 99)]
+	Mercedes
+Image #: 9
+	True Bounding Boxes: [348 512 446 640]
+	True Logo Present: Mercedes
+Image #9 Predictions:
+	[443, 6, 480, 83, (37, 77)]
+	BMW
+Image #: 10
+	True Bounding Boxes: [347 408 447 466]
+	True Logo Present: Mercedes
+Image #10 Predictions:
+Image #: 11
+	True Bounding Boxes: [350 383 448 528]
+	True Logo Present: Mercedes
+Image #11 Predictions:
+	[357, 401, 438, 510, (81, 109)]
+	Mercedes
+Image #: 12
+	True Bounding Boxes: [360 479 429 575]
+	True Logo Present: Mercedes
+Image #12 Predictions:
+	[156, 367, 207, 475, (51, 108)]
+	Lamborghini
+Image #: 13
+	True Bounding Boxes: [380 290 430 357]
+	True Logo Present: Mercedes
+Image #13 Predictions:
+	[177, 379, 634, 617, (457, 238)]
+	Chevrolet
+Image #: 14
+	True Bounding Boxes: [367 391 466 517]
+	True Logo Present: Mercedes
+Image #14 Predictions:
+	[377, 400, 455, 507, (78, 107)]
+	Mercedes
+Image #: 15
+	True Bounding Boxes: [356 391 466 515]
+	True Logo Present: Mercedes
+Image #15 Predictions:
+	[371, 429, 438, 503, (67, 74)]
+	BMW
+Image #: 16
+	True Bounding Boxes: [365 387 441 486]
+	True Logo Present: Mercedes
+Image #16 Predictions:
+	[250, 390, 548, 501, (298, 111)]
+	Toyota
+Image #: 17
+	True Bounding Boxes: [362 409 440 523]
+	True Logo Present: Mercedes
+Image #17 Predictions:
+	[368, 411, 438, 525, (70, 114)]
+	Mercedes
+Image #: 18
+	True Bounding Boxes: [282 414 367 542]
+	True Logo Present: Mercedes
+Image #18 Predictions:
+	[293, 418, 361, 529, (68, 111)]
+	Mercedes
+Image #: 19
+	True Bounding Boxes: [361 403 441 523]
+	True Logo Present: Mercedes
+Image #19 Predictions:
+	[377, 417, 430, 516, (53, 99)]
+	Mercedes
+Image #: 20
+	True Bounding Boxes: [369 412 438 514]
+	True Logo Present: Mercedes
+Image #20 Predictions:
+	[376, 423, 425, 511, (49, 88)]
+	Mercedes
+Image #: 21
+	True Bounding Boxes: [350 392 446 541]
+	True Logo Present: Mercedes
+Image #21 Predictions:
+	[353, 402, 440, 530, (87, 128)]
+	Mercedes
+Image #: 22
+	True Bounding Boxes: [348 392 459 533]
+	True Logo Present: Mercedes
+Image #22 Predictions:
+	[356, 412, 481, 527, (125, 115)]
+	Mercedes
+Image #: 23
+	True Bounding Boxes: [332 357 426 498]
+	True Logo Present: Mercedes
+Image #23 Predictions:
+	[317, 361, 443, 493, (126, 132)]
+	Mercedes
+Image #: 24
+	True Bounding Boxes: [359 439 457 581]
+	True Logo Present: Mercedes
+Image #24 Predictions:
+	[347, 441, 465, 570, (118, 129)]
+	Mercedes
+Image #: 25
+	True Bounding Boxes: [426 411 512 511]
+	True Logo Present: Mercedes
+Image #25 Predictions:
+	[429, 415, 498, 508, (69, 93)]
+	Mercedes
+Image #: 26
+	True Bounding Boxes: [353 388 450 470]
+	True Logo Present: Mercedes
+Image #26 Predictions:
+	[93, 329, 585, 486, (492, 157)]
+	Chevrolet
+Image #: 27
+	True Bounding Boxes: [362 420 446 478]
+	True Logo Present: Mercedes
+Image #27 Predictions:
+	[145, 396, 645, 507, (500, 111)]
+	Toyota
+Image #: 28
+	True Bounding Boxes: [350 448 455 586]
+	True Logo Present: Mercedes
+Image #28 Predictions:
+	[364, 496, 428, 578, (64, 82)]
+	BMW
+Image #: 29
+	True Bounding Boxes: [357 447 443 561]
+	True Logo Present: Mercedes
+Image #29 Predictions:
+	[367, 449, 435, 558, (68, 109)]
+	Mercedes
+Image #: 30
+	True Bounding Boxes: [353 353 471 511]
+	True Logo Present: Mercedes
+Image #30 Predictions:
+	[373, 454, 446, 499, (73, 45)]
+	Mercedes
+Image #: 31
+	True Bounding Boxes: [346 330 449 449]
+	True Logo Present: Mercedes
+Image #31 Predictions:
+	[360, 335, 436, 445, (76, 110)]
+	Mercedes
+Image #: 32
+	True Bounding Boxes: [377 317 410 358]
+	True Logo Present: Mercedes
+Image #32 Predictions:
+	[156, 361, 229, 442, (73, 81)]
+	BMW
+Image #: 33
+	True Bounding Boxes: [350 392 453 521]
+	True Logo Present: Mercedes
+Image #33 Predictions:
+	[365, 402, 441, 509, (76, 107)]
+	Mercedes
+Image #: 34
+	True Bounding Boxes: [359 452 417 534]
+	True Logo Present: Mercedes
+Image #34 Predictions:
+	[368, 461, 407, 534, (39, 73)]
+	Mercedes
+Image #: 35
+	True Bounding Boxes: [367 390 436 492]
+	True Logo Present: Mercedes
+Image #35 Predictions:
+	[371, 405, 431, 488, (60, 83)]
+	Mercedes
+Image #: 36
+	True Bounding Boxes: [345 350 464 492]
+	True Logo Present: Mercedes
+Image #36 Predictions:
+	[364, 399, 445, 476, (81, 77)]
+	BMW
+Image #: 37
+	True Bounding Boxes: [361 319 445 440]
+	True Logo Present: Mercedes
+Image #37 Predictions:
+	[365, 331, 436, 430, (71, 99)]
+	Mercedes
+Image #: 38
+	True Bounding Boxes: [363 362 440 460]
+	True Logo Present: Mercedes
+Image #38 Predictions:
+	[367, 355, 438, 458, (71, 103)]
+	Mercedes
+Image #: 39
+	True Bounding Boxes: [361 387 440 501]
+	True Logo Present: Mercedes
+Image #39 Predictions:
+	[368, 398, 432, 493, (64, 95)]
+	Mercedes
+Image #: 40
+	True Bounding Boxes: [362 368 435 487]
+	True Logo Present: Mercedes
+Image #40 Predictions:
+	[369, 379, 427, 480, (58, 101)]
+	Mercedes
+Image #: 41
+	True Bounding Boxes: [449 433 517 539]
+	True Logo Present: Mercedes
+Total Predictions: 40
+Correct: 29 	Incorrect:11
+
+-------------------------------------------------------------
+Image #: 54
+	True Bounding Boxes: [346 342 400 393]
+	True Logo Present: BMW
+Image #54 Predictions:
+	[196, 391, 369, 492, (173, 101)]
+	Mercedes
+Image #: 55
+	True Bounding Boxes: [380 402 422 434]
+	True Logo Present: BMW
+Image #55 Predictions:
+	[129, 368, 207, 452, (78, 84)]
+	Mercedes
+Image #: 56
+	True Bounding Boxes: [365 373 423 408]
+	True Logo Present: BMW
+Image #56 Predictions:
+	[7, 236, 89, 301, (82, 65)]
+	Mercedes
+Image #: 57
+	True Bounding Boxes: [296 424 331 454]
+	True Logo Present: BMW
+Image #57 Predictions:
+	[126, 525, 250, 625, (124, 100)]
+	Toyota
+Image #: 58
+	True Bounding Boxes: [357 472 410 511]
+	True Logo Present: BMW
+Image #58 Predictions:
+	[226, 521, 260, 582, (34, 61)]
+	Mercedes
+Image #: 59
+	True Bounding Boxes: [378 385 423 417]
+	True Logo Present: BMW
+
+Total Predictions: 5
+Correct: 0 	Incorrect:5
+
+----------------------------------------------
+Image #: 160
+	True Bounding Boxes: [359 497 419 532]
+	True Logo Present: Lamborghini
+Image #160 Predictions:
+Image #: 161
+	True Bounding Boxes: [379 549 432 590]
+	True Logo Present: Lamborghini
+Image #161 Predictions:
+Image #: 162
+	True Bounding Boxes: [368 562 435 628]
+	True Logo Present: Lamborghini
+Image #162 Predictions:
+	[51, 489, 103, 635, (52, 146)]
+	BMW
+Image #: 163
+	True Bounding Boxes: [379 482 419 544]
+	True Logo Present: Lamborghini
+Image #163 Predictions:
+	[319, 685, 690, 768, (371, 83)]
+	Mercedes
+Image #: 164
+	True Bounding Boxes: [561 475 605 511]
+	True Logo Present: Lamborghini
+Image #164 Predictions:
+	[82, 354, 131, 467, (49, 113)]
+	BMW
+
+Total Predictions: 3
+Correct: 0 	Incorrect:3
+----------------------------------------------
+Image #: 199
+	True Bounding Boxes: [483 499 553 552]
+	True Logo Present: Toyota
+Image #199 Predictions:
+Image #: 200
+	True Bounding Boxes: [362 384 435 464]
+	True Logo Present: Toyota
+Image #200 Predictions:
+	[177, 477, 227, 606, (50, 129)]
+	Mercedes
+Image #: 201
+	True Bounding Boxes: [362 352 442 428]
+	True Logo Present: Toyota
+Image #201 Predictions:
+	[370, 364, 441, 422, (71, 58)]
+	Toyota
+Image #: 202
+	True Bounding Boxes: [373 313 438 381]
+	True Logo Present: Toyota
+Image #202 Predictions:
+	[103, 180, 164, 253, (61, 73)]
+	BMW
+Image #: 203
+	True Bounding Boxes: [353 331 449 416]
+	True Logo Present: Toyota
+Image #203 Predictions:
+	[369, 343, 431, 398, (62, 55)]
+	Toyota
+Image #: 204
+	True Bounding Boxes: [350 382 449 464]
+	True Logo Present: Toyota
+Image #204 Predictions:
+	[366, 397, 426, 450, (60, 53)]
+	Toyota
+Image #: 205
+	True Bounding Boxes: [346 448 447 536]
+	True Logo Present: Toyota
+Image #205 Predictions:
+	[368, 466, 426, 518, (58, 52)]
+	Toyota
+Image #: 206
+	True Bounding Boxes: [432 463 525 534]
+	True Logo Present: Toyota
+Image #206 Predictions:
+	[729, 330, 800, 437, (71, 107)]
+	Mercedes
+Image #: 207
+	True Bounding Boxes: [129 377 187 444]
+	True Logo Present: Toyota
+Image #207 Predictions:
+	[435, 440, 495, 627, (60, 187)]
+	Lamborghini
+Image #: 208
+	True Bounding Boxes: [370 442 437 528]
+	True Logo Present: Toyota
+Image #208 Predictions:
+Image #: 209
+	True Bounding Boxes: [363 373 433 436]
+	True Logo Present: Toyota
+Image #209 Predictions:
+	[85, 454, 158, 635, (73, 181)]
+	BMW
+Image #: 210
+	True Bounding Boxes: [347 360 446 443]
+	True Logo Present: Toyota
+Image #210 Predictions:
+	[118, 442, 240, 640, (122, 198)]
+	BMW
+Image #: 211
+	True Bounding Boxes: [371 398 425 454]
+	True Logo Present: Toyota
+Image #211 Predictions:
+	[178, 487, 228, 608, (50, 121)]
+	BMW
+Image #: 212
+	True Bounding Boxes: [352 361 440 441]
+	True Logo Present: Toyota
+Image #212 Predictions:
+	[118, 442, 240, 640, (122, 198)]
+	BMW
+Image #: 213
+	True Bounding Boxes: [357 400 437 470]
+	True Logo Present: Toyota
+Image #213 Predictions:
+	[365, 405, 431, 462, (66, 57)]
+	Toyota
+Image #: 214
+	True Bounding Boxes: [363 290 436 361]
+	True Logo Present: Toyota
+Image #214 Predictions:
+	[367, 299, 430, 361, (63, 62)]
+	Toyota
+Image #: 215
+	True Bounding Boxes: [211 397 283 465]
+	True Logo Present: Toyota
+Image #215 Predictions:
+	[357, 384, 590, 583, (233, 199)]
+	BMW
+Image #: 216
+	True Bounding Boxes: [353 396 441 485]
+	True Logo Present: Toyota
+Image #216 Predictions:
+	[357, 408, 440, 482, (83, 74)]
+	Toyota
+Image #: 217
+	True Bounding Boxes: [358 395 435 461]
+	True Logo Present: Toyota
+Image #217 Predictions:
+	[187, 593, 320, 667, (133, 74)]
+	Mercedes
+Image #: 218
+	True Bounding Boxes: [358 430 429 501]
+	True Logo Present: Toyota
+Image #218 Predictions:
+	[367, 436, 424, 493, (57, 57)]
+	Toyota
+Image #: 219
+	True Bounding Boxes: [370 435 421 486]
+	True Logo Present: Toyota
+Image #219 Predictions:
+	[155, 379, 664, 731, (509, 352)]
+	Chevrolet
+Image #: 220
+	True Bounding Boxes: [359 402 446 488]
+	True Logo Present: Toyota
+Image #220 Predictions:
+	[189, 418, 509, 496, (320, 78)]
+	Lamborghini
+Image #: 221
+	True Bounding Boxes: [366 391 406 426]
+	True Logo Present: Toyota
+Image #221 Predictions:
+	[169, 463, 250, 601, (81, 138)]
+	Toyota
+Image #: 222
+	True Bounding Boxes: [359 325 454 405]
+	True Logo Present: Toyota
+Image #222 Predictions:
+	[162, 259, 271, 342, (109, 83)]
+	Chevrolet
+Image #: 223
+	True Bounding Boxes: [359 360 442 442]
+	True Logo Present: Toyota
+Image #223 Predictions:
+	[370, 372, 431, 432, (61, 60)]
+	Toyota
+Image #: 224
+	True Bounding Boxes: [392 416 429 473]
+	True Logo Present: Toyota
+Image #224 Predictions:
+	[244, 369, 327, 478, (83, 109)]
+	Toyota
+Image #: 225
+	True Bounding Boxes: [376 423 426 471]
+	True Logo Present: Toyota
+Image #225 Predictions:
+Image #: 226
+	True Bounding Boxes: [363 282 435 358]
+	True Logo Present: Toyota
+Image #226 Predictions:
+	[369, 290, 435, 353, (66, 63)]
+	Toyota
+Image #: 227
+	True Bounding Boxes: [369 329 425 388]
+	True Logo Present: Toyota
+Image #227 Predictions:
+	[229, 147, 281, 299, (52, 152)]
+	BMW
+Image #: 228
+	True Bounding Boxes: [485 349 525 393]
+	True Logo Present: Toyota
+Image #228 Predictions:
+	[261, 476, 310, 606, (49, 130)]
+	Lamborghini
+Image #: 229
+	True Bounding Boxes: [383 458 453 507]
+	True Logo Present: Toyota
+Image #229 Predictions:
+	[382, 463, 450, 501, (68, 38)]
+	Toyota
+Image #: 230
+	True Bounding Boxes: [344 470 393 517]
+	True Logo Present: Toyota
+Image #230 Predictions:
+	[527, 547, 577, 608, (50, 61)]
+	Lamborghini
+Image #: 231
+	True Bounding Boxes: [250 368 292 435]
+	True Logo Present: Toyota
+Image #231 Predictions:
+	[537, 516, 616, 641, (79, 125)]
+	Toyota
+Image #: 232
+	True Bounding Boxes: [276 442 320 489]
+	True Logo Present: Toyota
+Image #232 Predictions:
+	[148, 530, 221, 600, (73, 70)]
+	Toyota
+Image #: 233
+	True Bounding Boxes: [369 387 433 463]
+	True Logo Present: Toyota
+Image #233 Predictions:
+	[0, 0, 800, 800, (800, 800)]
+	Lamborghini
+Image #: 234
+	True Bounding Boxes: [491 377 549 455]
+	True Logo Present: Toyota
+Image #234 Predictions:
+	[0, 213, 800, 800, (800, 587)]
+	Lamborghini
+Image #: 235
+	True Bounding Boxes: [499 404 534 453]
+	True Logo Present: Toyota
+Image #235 Predictions:
+	[284, 540, 342, 620, (58, 80)]
+	Toyota
+Image #: 236
+	True Bounding Boxes: [299 431 353 487]
+	True Logo Present: Toyota
+Image #236 Predictions:
+	[278, 461, 369, 506, (91, 45)]
+	BMW
+Image #: 237
+	True Bounding Boxes: [360 388 446 477]
+	True Logo Present: Toyota
+Image #237 Predictions:
+	[368, 397, 442, 468, (74, 71)]
+	Toyota
+Image #: 238
+	True Bounding Boxes: [362 424 444 497]
+	True Logo Present: Toyota
+Image #238 Predictions:
+Image #: 239
+	True Bounding Boxes: [346 321 458 397]
+	True Logo Present: Toyota
+Image #239 Predictions:
+	[359, 332, 437, 385, (78, 53)]
+	Toyota
+Image #: 240
+	True Bounding Boxes: [357 370 446 448]
+	True Logo Present: Toyota
+Image #240 Predictions:
+	[85, 454, 158, 635, (73, 181)]
+	BMW
+Image #: 241
+	True Bounding Boxes: [356 402 440 485]
+	True Logo Present: Toyota
+Image #241 Predictions:
+	[664, 336, 735, 425, (71, 89)]
+	BMW
+Image #: 242
+	True Bounding Boxes: [364 402 437 471]
+	True Logo Present: Toyota
+Image #242 Predictions:
+	[238, 415, 560, 504, (322, 89)]
+	Toyota
+Image #: 243
+	True Bounding Boxes: [400 377 461 432]
+	True Logo Present: Toyota
+Image #243 Predictions:
+	[621, 356, 672, 426, (51, 70)]
+	BMW
+Total Predictions: 41
+Correct: 19 	Incorrect:22
+
+----------------------------------------------
+Image #: 101
+	True Bounding Boxes: [369 400 440 451]
+	True Logo Present: Chevrolet
+Image #101 Predictions:
+	[622, 274, 692, 576, (70, 302)]
+	Chevrolet
+Image #: 102
+	True Bounding Boxes: [366 410 438 467]
+	True Logo Present: Chevrolet
+Image #102 Predictions:
+	[310, 122, 477, 167, (167, 45)]
+	BMW
+Image #: 103
+	True Bounding Boxes: [369 434 431 484]
+	True Logo Present: Chevrolet
+Image #103 Predictions:
+	[134, 296, 190, 417, (56, 121)]
+	BMW
+Image #: 104
+	True Bounding Boxes: [363 370 450 422]
+	True Logo Present: Chevrolet
+Image #104 Predictions:
+	[116, 471, 173, 548, (57, 77)]
+	BMW
+Image #: 105
+	True Bounding Boxes: [130 386 188 441]
+	True Logo Present: Chevrolet
+Image #105 Predictions:
+	[467, 383, 527, 697, (60, 314)]
+	Mercedes
+Image #: 106
+	True Bounding Boxes: [192 355 238 402]
+	True Logo Present: Chevrolet
+Image #106 Predictions:
+	[482, 410, 557, 667, (75, 257)]
+	BMW
+Image #: 107
+	True Bounding Boxes: [351 435 428 477]
+	True Logo Present: Chevrolet
+Image #107 Predictions:
+Image #: 108
+	True Bounding Boxes: [362 347 432 402]
+	True Logo Present: Chevrolet
+Image #108 Predictions:
+Image #: 109
+	True Bounding Boxes: [361 402 436 471]
+	True Logo Present: Chevrolet
+Image #109 Predictions:
+	[101, 259, 153, 361, (52, 102)]
+	Chevrolet
+Image #: 110
+	True Bounding Boxes: [416 373 478 426]
+	True Logo Present: Chevrolet
+Image #110 Predictions:
+	[189, 302, 281, 402, (92, 100)]
+	Mercedes
+Image #: 111
+	True Bounding Boxes: [375 419 425 460]
+	True Logo Present: Chevrolet
+Image #111 Predictions:
+	[523, 396, 579, 488, (56, 92)]
+	BMW
+Image #: 112
+	True Bounding Boxes: [366 336 434 407]
+	True Logo Present: Chevrolet
+Image #112 Predictions:
+	[115, 200, 195, 371, (80, 171)]
+	Toyota
+Image #: 113
+	True Bounding Boxes: [379 368 440 420]
+	True Logo Present: Chevrolet
+Image #113 Predictions:
+	[140, 273, 276, 421, (136, 148)]
+	Mercedes
+Image #: 114
+	True Bounding Boxes: [374 366 439 416]
+	True Logo Present: Chevrolet
+Image #114 Predictions:
+	[665, 302, 750, 405, (85, 103)]
+	Lamborghini
+Image #: 115
+	True Bounding Boxes: [600 472 648 516]
+	True Logo Present: Chevrolet
+Image #115 Predictions:
+	[43, 510, 83, 609, (40, 99)]
+	Toyota
+Image #: 116
+	True Bounding Boxes: [200 417 233 449]
+	True Logo Present: Chevrolet
+Image #116 Predictions:
+	[69, 581, 419, 665, (350, 84)]
+	Mercedes
+Image #: 117
+	True Bounding Boxes: [329 420 395 461]
+	True Logo Present: Chevrolet
+Image #117 Predictions:
+	[63, 607, 361, 687, (298, 80)]
+	Toyota
+Image #: 118
+	True Bounding Boxes: [338 307 446 379]
+	True Logo Present: Chevrolet
+Image #118 Predictions:
+	[47, 433, 107, 521, (60, 88)]
+	BMW
+Image #: 119
+	True Bounding Boxes: [353 428 442 473]
+	True Logo Present: Chevrolet
+Image #119 Predictions:
+	[74, 393, 120, 499, (46, 106)]
+	BMW
+Image #: 120
+	True Bounding Boxes: [400 385 460 432]
+	True Logo Present: Chevrolet
+Image #120 Predictions:
+Image #: 121
+	True Bounding Boxes: [374 350 421 392]
+	True Logo Present: Chevrolet
+Image #121 Predictions:
+Image #: 122
+	True Bounding Boxes: [246 343 306 394]
+	True Logo Present: Chevrolet
+Image #122 Predictions:
+	[184, 345, 267, 449, (83, 104)]
+	Chevrolet
+Image #: 123
+	True Bounding Boxes: [276 412 364 473]
+	True Logo Present: Chevrolet
+Image #123 Predictions:
+	[562, 540, 627, 628, (65, 88)]
+	BMW
+Image #: 124
+	True Bounding Boxes: [255 247 296 287]
+	True Logo Present: Chevrolet
+Image #124 Predictions:
+	[474, 334, 522, 477, (48, 143)]
+	Lamborghini
+Image #: 125
+	True Bounding Boxes: [340 380 440 467]
+	True Logo Present: Chevrolet
+Image #125 Predictions:
+	[238, 443, 315, 538, (77, 95)]
+	Lamborghini
+Image #: 126
+	True Bounding Boxes: [365 538 443 589]
+	True Logo Present: Chevrolet
+
+Total Predictions: 21
+Correct: 3 	Incorrect:18
+------------------------------------------------

@@ -1,0 +1,1059 @@
+Image #: 0 BMW_1.jpg
+	True Bounding Boxes: [346 342 400 393]
+	True Logo Present: BMW
+Image #0 Predictions:
+	[49, 534, 748, 741, (699, 207)]
+	BMW
+Image #: 2 BMW_11.jpeg
+	True Bounding Boxes: [365 373 423 408]
+	True Logo Present: BMW
+Image #2 Predictions:
+Image #: 4 BMW_13.jpeg
+	True Bounding Boxes: [357 472 410 511]
+	True Logo Present: BMW
+Image #4 Predictions:
+	[100, 489, 154, 539, (54, 50)]
+	Toyota
+Image #: 6 BMW_15.jpeg
+	True Bounding Boxes: [349 490 408 540]
+	True Logo Present: BMW
+Image #6 Predictions:
+	[33, 497, 735, 605, (702, 108)]
+	Toyota
+Image #: 8 BMW_17.jpeg
+	True Bounding Boxes: [380 324 445 360]
+	True Logo Present: BMW
+Image #8 Predictions:
+	[130, 403, 737, 659, (607, 256)]
+	BMW
+Image #: 10 BMW_19.jpeg
+	True Bounding Boxes: [368 528 423 577]
+	True Logo Present: BMW
+Image #10 Predictions:
+	[134, 152, 764, 782, (630, 630)]
+	BMW
+Image #: 12 BMW_20.jpeg
+	True Bounding Boxes: [380 396 428 437]
+	True Logo Present: BMW
+Image #12 Predictions:
+	[0, 0, 800, 800, (800, 800)]
+	BMW
+Image #: 14 BMW_23.jpg
+	True Bounding Boxes: [375 298 428 335]
+	True Logo Present: BMW
+Image #14 Predictions:
+	[150, 131, 652, 253, (502, 122)]
+	Mercedes
+Image #: 16 BMW_25.jpeg
+	True Bounding Boxes: [375 419 421 463]
+	True Logo Present: BMW
+Image #16 Predictions:
+	[464, 165, 666, 602, (202, 437)]
+	Chevrolet
+Image #: 18 BMW_27.jpeg
+	True Bounding Boxes: [373 311 426 361]
+	True Logo Present: BMW
+Image #18 Predictions:
+	[228, 11, 573, 67, (345, 56)]
+	Hyundai
+Image #: 20 BMW_29.jpeg
+	True Bounding Boxes: [378 379 441 445]
+	True Logo Present: BMW
+Image #20 Predictions:
+	[518, 60, 597, 116, (79, 56)]
+	Lamborghini
+Image #: 22 BMW_30.jpeg
+	True Bounding Boxes: [383 366 425 408]
+	True Logo Present: BMW
+Image #22 Predictions:
+	[393, 24, 692, 313, (299, 289)]
+	BMW
+Image #: 24 BMW_32.jpeg
+	True Bounding Boxes: [387 336 420 377]
+	True Logo Present: BMW
+Image #24 Predictions:
+	[484, 281, 609, 446, (125, 165)]
+	Hyundai
+Image #: 26 BMW_34.jpeg
+	True Bounding Boxes: [428 347 460 385]
+	True Logo Present: BMW
+Image #26 Predictions:
+	[522, 301, 627, 451, (105, 150)]
+	Hyundai
+Image #: 28 BMW_36.jpeg
+	True Bounding Boxes: [376 362 427 399]
+	True Logo Present: BMW
+Image #28 Predictions:
+	[84, 488, 697, 601, (613, 113)]
+	BMW
+Image #: 30 BMW_4.jpeg
+	True Bounding Boxes: [373 343 438 373]
+	True Logo Present: BMW
+Image #30 Predictions:
+	[61, 237, 800, 596, (739, 359)]
+	Toyota
+Image #: 32 BMW_41.jpg
+	True Bounding Boxes: [376 310 424 353]
+	True Logo Present: BMW
+Image #32 Predictions:
+	[577, 480, 750, 717, (173, 237)]
+	BMW
+Image #: 34 BMW_43.jpeg
+	True Bounding Boxes: [508 440 539 480]
+	True Logo Present: BMW
+Image #34 Predictions:
+	[114, 439, 151, 691, (37, 252)]
+	BMW
+Image #: 36 BMW_45.jpg
+	True Bounding Boxes: [379 323 420 375]
+	True Logo Present: BMW
+Image #36 Predictions:
+	[248, 23, 561, 105, (313, 82)]
+	Hyundai
+Image #: 38 BMW_47.jpeg
+	True Bounding Boxes: [389 321 426 360]
+	True Logo Present: BMW
+Image #38 Predictions:
+	[107, 448, 230, 657, (123, 209)]
+	Lamborghini
+Image #: 40 BMW_49.jpeg
+	True Bounding Boxes: [392 358 424 401]
+	True Logo Present: BMW
+Image #40 Predictions:
+	[666, 0, 800, 89, (134, 89)]
+	Hyundai
+Image #: 42 BMW_50.jpeg
+	True Bounding Boxes: [381 332 424 384]
+	True Logo Present: BMW
+Image #42 Predictions:
+	[220, 373, 451, 481, (231, 108)]
+	Volkswagen
+Image #: 44 BMW_7.jpeg
+	True Bounding Boxes: [376 425 410 456]
+	True Logo Present: BMW
+Image #44 Predictions:
+	[152, 563, 659, 688, (507, 125)]
+	Lamborghini
+Image #: 46 BMW_9.jpeg
+	True Bounding Boxes: [377 502 428 534]
+	True Logo Present: BMW
+Image #46 Predictions:
+	[444, 308, 601, 432, (157, 124)]
+	BMW
+Image #: 48 Benz_10.jpeg
+	True Bounding Boxes: [348 435 434 546]
+	True Logo Present: Mercedes
+Image #48 Predictions:
+	[358, 443, 438, 542, (80, 99)]
+	Mercedes
+Image #: 50 Benz_12.jpeg
+	True Bounding Boxes: [351 400 447 478]
+	True Logo Present: Mercedes
+Image #50 Predictions:
+	[391, 0, 800, 628, (409, 628)]
+	Chevrolet
+Image #: 52 Benz_14.jpeg
+	True Bounding Boxes: [322 386 471 481]
+	True Logo Present: Mercedes
+Image #52 Predictions:
+	[339, 396, 484, 475, (145, 79)]
+	Mercedes
+Image #: 54 Benz_17.jpeg
+	True Bounding Boxes: [362 394 434 513]
+	True Logo Present: Mercedes
+Image #54 Predictions:
+	[364, 409, 437, 516, (73, 107)]
+	Mercedes
+Image #: 56 Benz_19.jpeg
+	True Bounding Boxes: [347 408 447 466]
+	True Logo Present: Mercedes
+Image #56 Predictions:
+	[348, 417, 502, 466, (154, 49)]
+	Hyundai
+Image #: 58 benz_20.jpeg
+	True Bounding Boxes: [360 479 429 575]
+	True Logo Present: Mercedes
+Image #58 Predictions:
+	[139, 395, 277, 701, (138, 306)]
+	BMW
+Image #: 60 Benz_22.jpg
+	True Bounding Boxes: [367 391 466 517]
+	True Logo Present: Mercedes
+Image #60 Predictions:
+	[463, 68, 671, 261, (208, 193)]
+	Chevrolet
+Image #: 62 Benz_24.jpeg
+	True Bounding Boxes: [365 387 441 486]
+	True Logo Present: Mercedes
+Image #62 Predictions:
+	[202, 109, 590, 249, (388, 140)]
+	Hyundai
+Image #: 64 Benz_26.jpeg
+	True Bounding Boxes: [282 414 367 542]
+	True Logo Present: Mercedes
+Image #64 Predictions:
+	[291, 412, 360, 508, (69, 96)]
+	Mercedes
+Image #: 66 Benz_28.jpeg
+	True Bounding Boxes: [369 412 438 514]
+	True Logo Present: Mercedes
+Image #66 Predictions:
+	[379, 461, 425, 511, (46, 50)]
+	Toyota
+Image #: 68 Benz_30.jpeg
+	True Bounding Boxes: [332 357 426 498]
+	True Logo Present: Mercedes
+Image #68 Predictions:
+	[281, 532, 317, 593, (36, 61)]
+	BMW
+Image #: 70 Benz_32.jpeg
+	True Bounding Boxes: [426 411 512 511]
+	True Logo Present: Mercedes
+Image #70 Predictions:
+	[431, 401, 515, 511, (84, 110)]
+	Mercedes
+Image #: 72 Benz_34.jpeg
+	True Bounding Boxes: [362 420 446 478]
+	True Logo Present: Mercedes
+Image #72 Predictions:
+	[126, 399, 742, 554, (616, 155)]
+	Toyota
+Image #: 74 Benz_36.jpeg
+	True Bounding Boxes: [357 447 443 561]
+	True Logo Present: Mercedes
+Image #74 Predictions:
+	[338, 432, 449, 568, (111, 136)]
+	Mercedes
+Image #: 76 Benz_38.jpeg
+	True Bounding Boxes: [346 330 449 449]
+	True Logo Present: Mercedes
+Image #76 Predictions:
+	[342, 338, 468, 455, (126, 117)]
+	Mercedes
+Image #: 78 Benz_4.jpg
+	True Bounding Boxes: [350 392 453 521]
+	True Logo Present: Mercedes
+Image #78 Predictions:
+	[343, 394, 466, 513, (123, 119)]
+	Mercedes
+Image #: 80 Benz_41.jpeg
+	True Bounding Boxes: [367 390 436 492]
+	True Logo Present: Mercedes
+Image #80 Predictions:
+	[353, 384, 458, 484, (105, 100)]
+	Hyundai
+Image #: 82 Benz_43.jpeg
+	True Bounding Boxes: [361 319 445 440]
+	True Logo Present: Mercedes
+Image #82 Predictions:
+	[372, 331, 436, 386, (64, 55)]
+	Mercedes
+Image #: 84 Benz_45.jpeg
+	True Bounding Boxes: [361 387 440 501]
+	True Logo Present: Mercedes
+Image #84 Predictions:
+	[376, 386, 444, 488, (68, 102)]
+	BMW
+Image #: 86 Benz_47.jpeg
+	True Bounding Boxes: [449 433 517 539]
+	True Logo Present: Mercedes
+Image #86 Predictions:
+	[460, 444, 509, 503, (49, 59)]
+	BMW
+Image #: 88 Benz_49.jpeg
+	True Bounding Boxes: [356 400 446 536]
+	True Logo Present: Mercedes
+Image #88 Predictions:
+	[366, 410, 427, 480, (61, 70)]
+	Mercedes
+Image #: 90 Benz_51.jpeg
+	True Bounding Boxes: [368 497 433 610]
+	True Logo Present: Mercedes
+Image #90 Predictions:
+	[371, 503, 435, 613, (64, 110)]
+	Mercedes
+Image #: 92 Benz_53.jpeg
+	True Bounding Boxes: [359 443 444 560]
+	True Logo Present: Mercedes
+Image #92 Predictions:
+	[352, 434, 450, 564, (98, 130)]
+	Mercedes
+Image #: 94 Benz_56.jpeg
+	True Bounding Boxes: [350 397 440 501]
+	True Logo Present: Mercedes
+Image #94 Predictions:
+	[342, 392, 455, 498, (113, 106)]
+	Mercedes
+Image #: 96 Benz_6.jpeg
+	True Bounding Boxes: [363 460 433 577]
+	True Logo Present: Mercedes
+Image #96 Predictions:
+	[360, 469, 432, 551, (72, 82)]
+	Volkswagen
+Image #: 98 Benz_67.jpeg
+	True Bounding Boxes: [356 399 445 539]
+	True Logo Present: Mercedes
+Image #98 Predictions:
+	[363, 410, 433, 459, (70, 49)]
+	Mercedes
+Image #: 100 Benz_8.jpeg
+	True Bounding Boxes: [322 463 414 563]
+	True Logo Present: Mercedes
+Image #100 Predictions:
+	[441, 133, 542, 258, (101, 125)]
+	BMW
+Image #: 102 Chevrolet_22.jpeg
+	True Bounding Boxes: [366 410 438 467]
+	True Logo Present: Chevrolet
+Image #102 Predictions:
+	[357, 426, 438, 465, (81, 39)]
+	BMW
+Image #: 104 Chevrolet_24.jpeg
+	True Bounding Boxes: [363 370 450 422]
+	True Logo Present: Chevrolet
+Image #104 Predictions:
+	[100, 461, 169, 558, (69, 97)]
+	BMW
+Image #: 106 Chevrolet_28.jpeg
+	True Bounding Boxes: [362 347 432 402]
+	True Logo Present: Chevrolet
+Image #106 Predictions:
+	[0, 0, 95, 81, (95, 81)]
+	Toyota
+Image #: 108 Chevrolet_30.jpeg
+	True Bounding Boxes: [416 373 478 426]
+	True Logo Present: Chevrolet
+Image #108 Predictions:
+	[0, 0, 800, 384, (800, 384)]
+	Lamborghini
+Image #: 110 Chevrolet_32.jpeg
+	True Bounding Boxes: [366 336 434 407]
+	True Logo Present: Chevrolet
+Image #110 Predictions:
+	[480, 38, 575, 174, (95, 136)]
+	Toyota
+Image #: 112 Chevrolet_34.jpeg
+	True Bounding Boxes: [374 366 439 416]
+	True Logo Present: Chevrolet
+Image #112 Predictions:
+	[688, 305, 744, 405, (56, 100)]
+	Hyundai
+Image #: 114 Chevrolet_39.jpeg
+	True Bounding Boxes: [338 307 446 379]
+	True Logo Present: Chevrolet
+Image #114 Predictions:
+	[46, 428, 109, 525, (63, 97)]
+	Toyota
+Image #: 116 Chevrolet_42.jpeg
+	True Bounding Boxes: [374 350 421 392]
+	True Logo Present: Chevrolet
+Image #116 Predictions:
+	[480, 128, 591, 309, (111, 181)]
+	BMW
+Image #: 118 Chevrolet_47.jpeg
+	True Bounding Boxes: [365 538 443 589]
+	True Logo Present: Chevrolet
+Image #118 Predictions:
+	[461, 555, 724, 655, (263, 100)]
+	Hyundai
+Image #: 120 Chevrolet_56.jpeg
+	True Bounding Boxes: [254 463 326 518]
+	True Logo Present: Chevrolet
+Image #120 Predictions:
+	[114, 434, 165, 500, (51, 66)]
+	BMW
+Image #: 122 Chevrolet_58.jpeg
+	True Bounding Boxes: [325 425 417 482]
+	True Logo Present: Chevrolet
+Image #122 Predictions:
+	[475, 63, 588, 233, (113, 170)]
+	Lamborghini
+Image #: 124 Chevrolet_61.jpg
+	True Bounding Boxes: [364 347 451 387]
+	True Logo Present: Chevrolet
+Image #124 Predictions:
+	[685, 410, 762, 577, (77, 167)]
+	Volkswagen
+Image #: 126 Chevrolet_63.jpeg
+	True Bounding Boxes: [357 325 456 390]
+	True Logo Present: Chevrolet
+Image #126 Predictions:
+Image #: 128 Chevrolet_67.jpeg
+	True Bounding Boxes: [481 351 541 408]
+	True Logo Present: Chevrolet
+Image #128 Predictions:
+	[245, 143, 554, 234, (309, 91)]
+	Lamborghini
+Image #: 130 Chevrolet_71.jpeg
+	True Bounding Boxes: [364 393 442 429]
+	True Logo Present: Chevrolet
+Image #130 Predictions:
+	[0, 140, 743, 468, (743, 328)]
+	BMW
+Image #: 132 Chev_1.jpg
+	True Bounding Boxes: [362 512 445 571]
+	True Logo Present: Chevorlet
+Image #132 Predictions:
+	[468, 197, 627, 382, (159, 185)]
+	Chevrolet
+Image #: 134 Chev_11.jpg
+	True Bounding Boxes: [340 431 457 481]
+	True Logo Present: Chevorlet
+Image #134 Predictions:
+	[163, 465, 610, 576, (447, 111)]
+	BMW
+Image #: 136 Chev_13.jpeg
+	True Bounding Boxes: [368 380 453 461]
+	True Logo Present: Chevorlet
+Image #136 Predictions:
+	[129, 515, 187, 617, (58, 102)]
+	Hyundai
+Image #: 138 Chev_15.jpg
+	True Bounding Boxes: [345 367 462 431]
+	True Logo Present: Chevorlet
+Image #138 Predictions:
+	[27, 319, 148, 405, (121, 86)]
+	Toyota
+Image #: 140 Chev_17.jpg
+	True Bounding Boxes: [359 395 455 457]
+	True Logo Present: Chevorlet
+Image #140 Predictions:
+	[0, 0, 800, 800, (800, 800)]
+	BMW
+Image #: 142 Chev_2.jpg
+	True Bounding Boxes: [353 309 438 349]
+	True Logo Present: Chevorlet
+Image #142 Predictions:
+	[467, 125, 657, 391, (190, 266)]
+	Chevrolet
+Image #: 144 Chev_21.jpeg
+	True Bounding Boxes: [349 437 428 475]
+	True Logo Present: Chevorlet
+Image #144 Predictions:
+	[61, 259, 711, 385, (650, 126)]
+	Chevrolet
+Image #: 146 Chev_3.jpg
+	True Bounding Boxes: [339 382 460 437]
+	True Logo Present: Chevorlet
+Image #146 Predictions:
+	[38, 348, 155, 416, (117, 68)]
+	Lamborghini
+Image #: 148 Chev_5.jpg
+	True Bounding Boxes: [364 269 431 316]
+	True Logo Present: Chevorlet
+Image #148 Predictions:
+	[0, 0, 800, 800, (800, 800)]
+	Lamborghini
+Image #: 150 Chev_7.jpeg
+	True Bounding Boxes: [349 468 472 524]
+	True Logo Present: Chevorlet
+Image #150 Predictions:
+	[465, 52, 585, 102, (120, 50)]
+	BMW
+Image #: 152 Chev_9.jpg
+	True Bounding Boxes: [353 397 456 457]
+	True Logo Present: Chevorlet
+Image #152 Predictions:
+	[0, 0, 800, 800, (800, 800)]
+	BMW
+Image #: 154 Hyundai_10.jpeg
+	True Bounding Boxes: [137 386 188 429]
+	True Logo Present: Hyundai
+Image #154 Predictions:
+	[410, 464, 479, 651, (69, 187)]
+	Hyundai
+Image #: 156 Hyundai_14.jpeg
+	True Bounding Boxes: [176 409 234 445]
+	True Logo Present: Hyundai
+Image #156 Predictions:
+	[593, 269, 710, 362, (117, 93)]
+	Lamborghini
+Image #: 158 Hyundai_16.jpeg
+	True Bounding Boxes: [621 367 681 428]
+	True Logo Present: Hyundai
+Image #158 Predictions:
+	[302, 472, 387, 578, (85, 106)]
+	Toyota
+Image #: 160 Hyundai_2.jpeg
+	True Bounding Boxes: [354 445 414 477]
+	True Logo Present: Hyundai
+Image #160 Predictions:
+	[539, 409, 612, 510, (73, 101)]
+	BMW
+Image #: 162 Hyundai_22.jpeg
+	True Bounding Boxes: [169 411 221 452]
+	True Logo Present: Hyundai
+Image #162 Predictions:
+	[464, 428, 554, 604, (90, 176)]
+	Hyundai
+Image #: 164 Hyundai_28.jpeg
+	True Bounding Boxes: [220 396 277 449]
+	True Logo Present: Hyundai
+Image #164 Predictions:
+	[206, 400, 281, 444, (75, 44)]
+	Hyundai
+Image #: 166 Hyundai_3.jpeg
+	True Bounding Boxes: [219 419 273 477]
+	True Logo Present: Hyundai
+Image #166 Predictions:
+	[539, 410, 592, 659, (53, 249)]
+	BMW
+Image #: 168 Hyundai_34.jpeg
+	True Bounding Boxes: [225 359 275 408]
+	True Logo Present: Hyundai
+Image #168 Predictions:
+	[517, 168, 639, 291, (122, 123)]
+	Hyundai
+Image #: 170 Hyundai_36.jpeg
+	True Bounding Boxes: [173 337 212 380]
+	True Logo Present: Hyundai
+Image #170 Predictions:
+	[461, 332, 547, 513, (86, 181)]
+	Lamborghini
+Image #: 172 Hyundai_38.jpeg
+	True Bounding Boxes: [309 398 389 464]
+	True Logo Present: Hyundai
+Image #172 Predictions:
+	[402, 124, 551, 261, (149, 137)]
+	Lamborghini
+Image #: 174 Hyundai_41.jpeg
+	True Bounding Boxes: [367 387 441 454]
+	True Logo Present: Hyundai
+Image #174 Predictions:
+	[215, 88, 574, 229, (359, 141)]
+	BMW
+Image #: 176 Hyundai_43.jpeg
+	True Bounding Boxes: [531 417 564 450]
+	True Logo Present: Hyundai
+Image #176 Predictions:
+	[264, 260, 545, 430, (281, 170)]
+	Hyundai
+Image #: 178 Hyundai_45.jpeg
+	True Bounding Boxes: [603 432 645 476]
+	True Logo Present: Hyundai
+Image #178 Predictions:
+	[275, 518, 422, 736, (147, 218)]
+	Hyundai
+Image #: 180 Hyundai_50.jpeg
+	True Bounding Boxes: [535 506 573 541]
+	True Logo Present: Hyundai
+Image #180 Predictions:
+	[490, 277, 554, 353, (64, 76)]
+	Hyundai
+Image #: 182 Hyundai_52.jpeg
+	True Bounding Boxes: [514 429 559 468]
+	True Logo Present: Hyundai
+Image #182 Predictions:
+	[86, 376, 692, 632, (606, 256)]
+	Chevrolet
+Image #: 184 Hyundai_54.jpeg
+	True Bounding Boxes: [163 435 228 477]
+	True Logo Present: Hyundai
+Image #184 Predictions:
+	[676, 416, 750, 585, (74, 169)]
+	Lamborghini
+Image #: 186 Hyundai_56.jpeg
+	True Bounding Boxes: [126 456 186 498]
+	True Logo Present: Hyundai
+Image #186 Predictions:
+	[324, 552, 539, 648, (215, 96)]
+	Toyota
+Image #: 188 Hyundai_58.jpeg
+	True Bounding Boxes: [261 411 345 459]
+	True Logo Present: Hyundai
+Image #188 Predictions:
+	[415, 483, 470, 554, (55, 71)]
+	BMW
+Image #: 190 Hyundai_6.jpeg
+	True Bounding Boxes: [260 388 308 426]
+	True Logo Present: Hyundai
+Image #190 Predictions:
+Image #: 192 Hyundai_61.jpeg
+	True Bounding Boxes: [342 378 437 446]
+	True Logo Present: Hyundai
+Image #192 Predictions:
+	[644, 506, 726, 704, (82, 198)]
+	Chevrolet
+Image #: 194 Hyundai_63.jpeg
+	True Bounding Boxes: [237 395 321 459]
+	True Logo Present: Hyundai
+Image #194 Predictions:
+	[28, 393, 187, 676, (159, 283)]
+	Chevrolet
+Image #: 196 Hyundai_65.jpeg
+	True Bounding Boxes: [145 394 216 450]
+	True Logo Present: Hyundai
+Image #196 Predictions:
+	[457, 161, 740, 315, (283, 154)]
+	Hyundai
+Image #: 198 Hyundai_67.jpg
+	True Bounding Boxes: [357 412 466 507]
+	True Logo Present: Hyundai
+Image #198 Predictions:
+	[366, 425, 467, 498, (101, 73)]
+	Hyundai
+Image #: 200 Hyundai_69.jpeg
+	True Bounding Boxes: [149 352 214 407]
+	True Logo Present: Hyundai
+Image #200 Predictions:
+	[498, 368, 603, 655, (105, 287)]
+	Lamborghini
+Image #: 202 Hyundai_70.jpg
+	True Bounding Boxes: [128 373 185 430]
+	True Logo Present: Hyundai
+Image #202 Predictions:
+	[251, 418, 441, 548, (190, 130)]
+	BMW
+Image #: 204 lamborghini_1.jpg
+	True Bounding Boxes: [380 496 415 524]
+	True Logo Present: Lamborghini
+Image #204 Predictions:
+	[551, 498, 604, 606, (53, 108)]
+	Chevrolet
+Image #: 206 lamborghini_11.jpg
+	True Bounding Boxes: [211 477 240 512]
+	True Logo Present: Lamborghini
+Image #206 Predictions:
+	[496, 242, 712, 385, (216, 143)]
+	BMW
+Image #: 208 lamborghini_13.jpg
+	True Bounding Boxes: [378 521 420 567]
+	True Logo Present: Lamborghini
+Image #208 Predictions:
+	[216, 7, 586, 64, (370, 57)]
+	Hyundai
+Image #: 210 lamborghini_15.jpg
+	True Bounding Boxes: [608 358 652 404]
+	True Logo Present: Lamborghini
+Image #210 Predictions:
+	[710, 389, 754, 570, (44, 181)]
+	Hyundai
+Image #: 212 lamborghini_17.jpg
+	True Bounding Boxes: [359 497 419 532]
+	True Logo Present: Lamborghini
+Image #212 Predictions:
+Image #: 214 lamborghini_19.jpeg
+	True Bounding Boxes: [368 562 435 628]
+	True Logo Present: Lamborghini
+Image #214 Predictions:
+	[0, 285, 142, 800, (142, 515)]
+	Chevrolet
+Image #: 216 lamborghini_20.jpg
+	True Bounding Boxes: [561 475 605 511]
+	True Logo Present: Lamborghini
+Image #216 Predictions:
+	[183, 373, 246, 502, (63, 129)]
+	Toyota
+Image #: 218 Lamborghini_22.jpg
+	True Bounding Boxes: [380 405 420 450]
+	True Logo Present: Lamborghini
+Image #218 Predictions:
+	[54, 317, 249, 531, (195, 214)]
+	Lamborghini
+Image #: 220 Lamborghini_24.jpeg
+	True Bounding Boxes: [383 523 415 570]
+	True Logo Present: Lamborghini
+Image #220 Predictions:
+	[146, 580, 651, 742, (505, 162)]
+	BMW
+Image #: 222 Lamborghini_26.jpeg
+	True Bounding Boxes: [385 484 414 518]
+	True Logo Present: Lamborghini
+Image #222 Predictions:
+	[176, 115, 619, 366, (443, 251)]
+	BMW
+Image #: 224 Lamborghini_28.jpeg
+	True Bounding Boxes: [380 422 420 458]
+	True Logo Present: Lamborghini
+Image #224 Predictions:
+	[0, 134, 800, 580, (800, 446)]
+	Chevrolet
+Image #: 226 lamborghini_3.jpg
+	True Bounding Boxes: [383 490 415 542]
+	True Logo Present: Lamborghini
+Image #226 Predictions:
+Image #: 228 Lamborghini_31.jpg
+	True Bounding Boxes: [380 436 421 486]
+	True Logo Present: Lamborghini
+Image #228 Predictions:
+	[115, 30, 800, 266, (685, 236)]
+	Hyundai
+Image #: 230 Lamborghini_33.jpeg
+	True Bounding Boxes: [436 481 466 515]
+	True Logo Present: Lamborghini
+Image #230 Predictions:
+	[593, 493, 716, 598, (123, 105)]
+	BMW
+Image #: 232 Lamborghini_35.jpeg
+	True Bounding Boxes: [241 501 275 551]
+	True Logo Present: Lamborghini
+Image #232 Predictions:
+	[538, 11, 709, 294, (171, 283)]
+	Volkswagen
+Image #: 234 Lamborghini_37.jpeg
+	True Bounding Boxes: [395 487 425 524]
+	True Logo Present: Lamborghini
+Image #234 Predictions:
+	[505, 428, 675, 753, (170, 325)]
+	BMW
+Image #: 236 Lamborghini_39.jpeg
+	True Bounding Boxes: [398 468 429 497]
+	True Logo Present: Lamborghini
+Image #236 Predictions:
+	[159, 539, 202, 624, (43, 85)]
+	Hyundai
+Image #: 238 Lamborghini_40.jpg
+	True Bounding Boxes: [381 363 419 403]
+	True Logo Present: Lamborghini
+Image #238 Predictions:
+	[136, 0, 583, 505, (447, 505)]
+	Mercedes
+Image #: 240 Lamborghini_42.jpeg
+	True Bounding Boxes: [392 445 407 464]
+	True Logo Present: Lamborghini
+Image #240 Predictions:
+	[283, 341, 548, 565, (265, 224)]
+	Chevrolet
+Image #: 242 Lamborghini_45.jpg
+	True Bounding Boxes: [178 447 206 492]
+	True Logo Present: Lamborghini
+Image #242 Predictions:
+	[718, 212, 787, 657, (69, 445)]
+	BMW
+Image #: 244 Lamborghini_50.jpeg
+	True Bounding Boxes: [339 534 361 562]
+	True Logo Present: Lamborghini
+Image #244 Predictions:
+	[275, 548, 544, 662, (269, 114)]
+	BMW
+Image #: 246 Lamborghini_52.jpeg
+	True Bounding Boxes: [386 490 417 532]
+	True Logo Present: Lamborghini
+Image #246 Predictions:
+	[0, 0, 800, 800, (800, 800)]
+	BMW
+Image #: 248 lamborghini_7.jpg
+	True Bounding Boxes: [478 473 508 520]
+	True Logo Present: Lamborghini
+Image #248 Predictions:
+	[0, 0, 800, 800, (800, 800)]
+	Toyota
+Image #: 250 lamborghini_9.jpg
+	True Bounding Boxes: [498 481 538 520]
+	True Logo Present: Lamborghini
+Image #250 Predictions:
+	[116, 334, 215, 560, (99, 226)]
+	BMW
+Image #: 252 toyota_12.jpg
+	True Bounding Boxes: [362 352 442 428]
+	True Logo Present: Toyota
+Image #252 Predictions:
+	[472, 83, 557, 201, (85, 118)]
+	Hyundai
+Image #: 254 toyota_16.jpg
+	True Bounding Boxes: [353 331 449 416]
+	True Logo Present: Toyota
+Image #254 Predictions:
+	[216, 22, 605, 73, (389, 51)]
+	Hyundai
+Image #: 256 toyota_2.jpg
+	True Bounding Boxes: [432 463 525 534]
+	True Logo Present: Toyota
+Image #256 Predictions:
+	[537, 478, 800, 663, (263, 185)]
+	Lamborghini
+Image #: 258 Toyota_23.jpeg
+	True Bounding Boxes: [370 442 437 528]
+	True Logo Present: Toyota
+Image #258 Predictions:
+	[426, 96, 546, 255, (120, 159)]
+	BMW
+Image #: 260 Toyota_25.jpeg
+	True Bounding Boxes: [347 360 446 443]
+	True Logo Present: Toyota
+Image #260 Predictions:
+	[470, 11, 720, 337, (250, 326)]
+	Chevrolet
+Image #: 262 Toyota_27.jpeg
+	True Bounding Boxes: [352 361 440 441]
+	True Logo Present: Toyota
+Image #262 Predictions:
+	[470, 11, 720, 337, (250, 326)]
+	Chevrolet
+Image #: 264 Toyota_29.jpeg
+	True Bounding Boxes: [363 290 436 361]
+	True Logo Present: Toyota
+Image #264 Predictions:
+	[660, 480, 717, 561, (57, 81)]
+	BMW
+Image #: 266 Toyota_33.jpeg
+	True Bounding Boxes: [358 395 435 461]
+	True Logo Present: Toyota
+Image #266 Predictions:
+	[697, 157, 782, 257, (85, 100)]
+	Lamborghini
+Image #: 268 Toyota_37.jpeg
+	True Bounding Boxes: [370 435 421 486]
+	True Logo Present: Toyota
+Image #268 Predictions:
+	[376, 443, 429, 489, (53, 46)]
+	Toyota
+Image #: 270 Toyota_39.jpeg
+	True Bounding Boxes: [366 391 406 426]
+	True Logo Present: Toyota
+Image #270 Predictions:
+	[441, 197, 615, 505, (174, 308)]
+	Chevrolet
+Image #: 272 Toyota_40.jpeg
+	True Bounding Boxes: [359 360 442 442]
+	True Logo Present: Toyota
+Image #272 Predictions:
+	[0, 0, 800, 358, (800, 358)]
+	BMW
+Image #: 274 Toyota_42.jpeg
+	True Bounding Boxes: [376 423 426 471]
+	True Logo Present: Toyota
+Image #274 Predictions:
+	[465, 226, 535, 342, (70, 116)]
+	BMW
+Image #: 276 Toyota_44.jpeg
+	True Bounding Boxes: [369 329 425 388]
+	True Logo Present: Toyota
+Image #276 Predictions:
+	[187, 211, 240, 289, (53, 78)]
+	Chevrolet
+Image #: 278 Toyota_46.jpeg
+	True Bounding Boxes: [383 458 453 507]
+	True Logo Present: Toyota
+Image #278 Predictions:
+	[0, 419, 670, 707, (670, 288)]
+	Lamborghini
+Image #: 280 Toyota_48.jpeg
+	True Bounding Boxes: [250 368 292 435]
+	True Logo Present: Toyota
+Image #280 Predictions:
+	[528, 529, 630, 643, (102, 114)]
+	Hyundai
+Image #: 282 toyota_5.jpg
+	True Bounding Boxes: [369 387 433 463]
+	True Logo Present: Toyota
+Image #282 Predictions:
+Image #: 284 Toyota_51.jpg
+	True Bounding Boxes: [499 404 534 453]
+	True Logo Present: Toyota
+Image #284 Predictions:
+	[299, 226, 632, 428, (333, 202)]
+	BMW
+Image #: 286 Toyota_56.jpeg
+	True Bounding Boxes: [188 413 228 472]
+	True Logo Present: Toyota
+Image #286 Predictions:
+	[507, 207, 679, 357, (172, 150)]
+	Mercedes
+Image #: 288 toyota_6.jpg
+	True Bounding Boxes: [360 388 446 477]
+	True Logo Present: Toyota
+Image #288 Predictions:
+	[463, 57, 723, 694, (260, 637)]
+	Chevrolet
+Image #: 290 Toyota_61.jpeg
+	True Bounding Boxes: [270 468 327 544]
+	True Logo Present: Toyota
+Image #290 Predictions:
+	[300, 325, 393, 427, (93, 102)]
+	Hyundai
+Image #: 292 Toyota_63.jpg
+	True Bounding Boxes: [202 370 259 424]
+	True Logo Present: Toyota
+Image #292 Predictions:
+	[456, 426, 520, 620, (64, 194)]
+	BMW
+Image #: 294 toyota_7.jpg
+	True Bounding Boxes: [362 424 444 497]
+	True Logo Present: Toyota
+Image #294 Predictions:
+	[380, 439, 427, 487, (47, 48)]
+	Toyota
+Image #: 296 toyota_8.jpg
+	True Bounding Boxes: [346 321 458 397]
+	True Logo Present: Toyota
+Image #296 Predictions:
+	[549, 40, 698, 270, (149, 230)]
+	BMW
+Image #: 298 toyota__10.jpg
+	True Bounding Boxes: [356 402 440 485]
+	True Logo Present: Toyota
+Image #298 Predictions:
+	[359, 410, 443, 475, (84, 65)]
+	Toyota
+Image #: 300 toyota__15.jpg
+	True Bounding Boxes: [400 377 461 432]
+	True Logo Present: Toyota
+Image #300 Predictions:
+	[245, 311, 655, 371, (410, 60)]
+	BMW
+Image #: 302 Volkswagen_1.jpg
+	True Bounding Boxes: [371 408 445 495]
+	True Logo Present: Volkswagen
+Image #302 Predictions:
+	[471, 26, 684, 318, (213, 292)]
+	BMW
+Image #: 304 Volkswagen_11.jpg
+	True Bounding Boxes: [371 355 429 443]
+	True Logo Present: Volkswagen
+Image #304 Predictions:
+	[165, 0, 646, 235, (481, 235)]
+	Lamborghini
+Image #: 306 Volkswagen_15.jpg
+	True Bounding Boxes: [373 474 431 558]
+	True Logo Present: Volkswagen
+Image #306 Predictions:
+	[452, 184, 675, 709, (223, 525)]
+	Chevrolet
+Image #: 308 Volkswagen_18.jpg
+	True Bounding Boxes: [346 371 409 455]
+	True Logo Present: Volkswagen
+Image #308 Predictions:
+	[410, 163, 546, 276, (136, 113)]
+	BMW
+Image #: 310 Volkswagen_2.jpg
+	True Bounding Boxes: [367 373 447 478]
+	True Logo Present: Volkswagen
+Image #310 Predictions:
+	[170, 13, 603, 93, (433, 80)]
+	Hyundai
+Image #: 312 Volkswagen_24.jpg
+	True Bounding Boxes: [364 403 428 489]
+	True Logo Present: Volkswagen
+Image #312 Predictions:
+	[486, 73, 592, 280, (106, 207)]
+	Volkswagen
+Image #: 314 Volkswagen_27.jpg
+	True Bounding Boxes: [374 422 425 494]
+	True Logo Present: Volkswagen
+Image #314 Predictions:
+	[380, 432, 417, 488, (37, 56)]
+	Volkswagen
+Image #: 316 Volkswagen_29.jpg
+	True Bounding Boxes: [378 417 421 475]
+	True Logo Present: Volkswagen
+Image #316 Predictions:
+	[457, 179, 584, 526, (127, 347)]
+	BMW
+Image #: 318 Volkswagen_31.jpg
+	True Bounding Boxes: [368 362 425 438]
+	True Logo Present: Volkswagen
+Image #318 Predictions:
+	[567, 172, 686, 402, (119, 230)]
+	Lamborghini
+Image #: 320 Volkswagen_33.jpg
+	True Bounding Boxes: [360 355 429 444]
+	True Logo Present: Volkswagen
+Image #320 Predictions:
+	[0, 0, 645, 383, (645, 383)]
+	Hyundai
+Image #: 322 Volkswagen_35.jpg
+	True Bounding Boxes: [370 471 430 550]
+	True Logo Present: Volkswagen
+Image #322 Predictions:
+	[160, 432, 649, 591, (489, 159)]
+	Toyota
+Image #: 324 Volkswagen_39.jpeg
+	True Bounding Boxes: [363 329 443 414]
+	True Logo Present: Volkswagen
+Image #324 Predictions:
+	[101, 299, 176, 410, (75, 111)]
+	BMW
+Image #: 326 Volkswagen_40.jpg
+	True Bounding Boxes: [369 370 425 451]
+	True Logo Present: Volkswagen
+Image #326 Predictions:
+	[436, 135, 594, 290, (158, 155)]
+	BMW
+Image #: 328 Volkswagen_43.jpg
+	True Bounding Boxes: [322 370 392 432]
+	True Logo Present: Volkswagen
+Image #328 Predictions:
+	[418, 127, 665, 533, (247, 406)]
+	Chevrolet
+Image #: 330 Volkswagen_46.jpeg
+	True Bounding Boxes: [356 392 445 473]
+	True Logo Present: Volkswagen
+Image #330 Predictions:
+	[492, 102, 800, 775, (308, 673)]
+	Toyota
+Image #: 332 Volkswagen_49.jpeg
+	True Bounding Boxes: [369 374 446 472]
+	True Logo Present: Volkswagen
+Image #332 Predictions:
+	[466, 0, 800, 800, (334, 800)]
+	Chevrolet
+Image #: 334 Volkswagen_51.jpeg
+	True Bounding Boxes: [361 406 446 496]
+	True Logo Present: Volkswagen
+Image #334 Predictions:
+	[609, 151, 698, 252, (89, 101)]
+	BMW
+Image #: 336 Volkswagen_54.jpeg
+	True Bounding Boxes: [360 420 431 497]
+	True Logo Present: Volkswagen
+Image #336 Predictions:
+	[35, 387, 153, 532, (118, 145)]
+	Toyota
+Image #: 338 Volkswagen_56.jpeg
+	True Bounding Boxes: [361 424 448 520]
+	True Logo Present: Volkswagen
+Image #338 Predictions:
+	[391, 433, 433, 479, (42, 46)]
+	Volkswagen
+Image #: 340 Volkswagen_60.jpeg
+	True Bounding Boxes: [362 428 443 512]
+	True Logo Present: Volkswagen
+Image #340 Predictions:
+	[577, 171, 746, 571, (169, 400)]
+	Chevrolet
+Image #: 342 Volkswagen_67.jpg
+	True Bounding Boxes: [361 396 440 499]
+	True Logo Present: Volkswagen
+Image #342 Predictions:
+	[551, 68, 685, 261, (134, 193)]
+	Volkswagen
+Image #: 344 Volkswagen_69.jpeg
+	True Bounding Boxes: [389 400 470 503]
+	True Logo Present: Volkswagen
+Image #344 Predictions:
+	[752, 569, 800, 711, (48, 142)]
+	Lamborghini
+Image #: 346 Volkswagen_71.jpg
+	True Bounding Boxes: [347 379 430 454]
+	True Logo Present: Volkswagen
+Image #346 Predictions:
+	[0, 481, 205, 608, (205, 127)]
+	Hyundai
+Image #: 348 Volkswagen_77.jpg
+	True Bounding Boxes: [342 351 424 449]
+	True Logo Present: Volkswagen
+Image #348 Predictions:
+	[106, 576, 668, 672, (562, 96)]
+	Toyota
+Image #: 350 Volkswagen_81.jpeg
+	True Bounding Boxes: [363 376 432 462]
+	True Logo Present: Volkswagen
+Image #350 Predictions:
+	[0, 149, 800, 394, (800, 245)]
+	BMW
+Image #: 352 Volkswagen_83.jpg
+	True Bounding Boxes: [387 362 466 456]
+	True Logo Present: Volkswagen
+Image #352 Predictions:
+	[6, 0, 800, 218, (794, 218)]
+	Chevrolet
+Image #: 354 Volkswagen_9.jpg
+	True Bounding Boxes: [372 377 429 452]
+	True Logo Present: Volkswagen
+Image #354 Predictions:
+	[383, 387, 422, 449, (39, 62)]
+	Volkswagen
+Total Predictions: 172
+Correct: 41 	Incorrect:131
+

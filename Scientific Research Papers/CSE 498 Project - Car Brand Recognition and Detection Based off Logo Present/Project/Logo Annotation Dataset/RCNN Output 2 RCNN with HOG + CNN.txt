@@ -1,0 +1,1512 @@
+Image #: 0
+	 True Bounding Boxes: [361 468 440 543]
+	 True Logo Present: Mercedes
+Image #0 Predictions:
+0.9532295
+		[364, 477, 428, 536, (64, 59)] Mercedes
+0.98833907
+		[366, 476, 435, 534, (69, 58)] Mercedes
+0.9592474
+		[370, 477, 428, 534, (58, 57)] Mercedes
+0.9785044
+		[371, 476, 428, 533, (57, 57)] Mercedes
+Image #: 1
+	 True Bounding Boxes: [348 435 434 546]
+	 True Logo Present: Mercedes
+Image #1 Predictions:
+0.9999856
+		[359, 445, 429, 537, (70, 92)] Mercedes
+0.98638016
+		[359, 445, 467, 534, (108, 89)] Lamborghini
+0.7749439
+		[444, 552, 486, 598, (42, 46)] Lamborghini
+0.9858915
+		[311, 540, 349, 588, (38, 48)] Lamborghini
+0.99999046
+		[359, 441, 434, 535, (75, 94)] Mercedes
+0.99997735
+		[359, 445, 429, 535, (70, 90)] Mercedes
+0.9999856
+		[359, 445, 434, 535, (75, 90)] Mercedes
+0.98551023
+		[364, 449, 418, 530, (54, 81)] Mercedes
+Image #: 2
+	 True Bounding Boxes: [395 427 448 504]
+	 True Logo Present: Mercedes
+Image #2 Predictions:
+Image #: 3
+	 True Bounding Boxes: [351 400 447 478]
+	 True Logo Present: Mercedes
+Image #3 Predictions:
+0.97524196
+		[362, 403, 437, 471, (75, 68)] Mercedes
+0.97580326
+		[364, 403, 437, 471, (73, 68)] Mercedes
+0.94387746
+		[364, 403, 435, 471, (71, 68)] Mercedes
+0.97449774
+		[367, 402, 434, 474, (67, 72)] Mercedes
+Image #: 4
+	 True Bounding Boxes: [330 482 459 622]
+	 True Logo Present: Mercedes
+Image #4 Predictions:
+0.76022166
+		[347, 493, 498, 592, (151, 99)] Background
+0.8401947
+		[318, 554, 463, 616, (145, 62)] BMW
+0.99531084
+		[327, 514, 445, 609, (118, 95)] Mercedes
+0.9954307
+		[327, 514, 442, 609, (115, 95)] Mercedes
+0.9985135
+		[327, 512, 445, 609, (118, 97)] Mercedes
+0.9994035
+		[351, 511, 445, 604, (94, 93)] Mercedes
+0.9718056
+		[318, 512, 486, 607, (168, 95)] Mercedes
+0.994194
+		[327, 515, 444, 606, (117, 91)] Mercedes
+Image #: 5
+	 True Bounding Boxes: [322 386 471 481]
+	 True Logo Present: Mercedes
+Image #5 Predictions:
+0.998552
+		[272, 395, 496, 475, (224, 80)] Lamborghini
+0.76619023
+		[405, 396, 463, 459, (58, 63)] Lamborghini
+0.9692115
+		[15, 398, 84, 440, (69, 42)] BMW
+0.99999976
+		[328, 396, 462, 473, (134, 77)] Mercedes
+0.99999535
+		[340, 398, 456, 470, (116, 72)] Mercedes
+Image #: 6
+	 True Bounding Boxes: [522 387 608 472]
+	 True Logo Present: Mercedes
+Image #6 Predictions:
+Image #: 7
+	 True Bounding Boxes: [448 430 512 532]
+	 True Logo Present: Mercedes
+Image #7 Predictions:
+0.92375094
+		[453, 440, 506, 485, (53, 45)] BMW
+0.9246868
+		[457, 482, 506, 528, (49, 46)] BMW
+0.9464249
+		[456, 466, 506, 529, (50, 63)] Mercedes
+Image #: 8
+	 True Bounding Boxes: [362 394 434 513]
+	 True Logo Present: Mercedes
+Image #8 Predictions:
+0.8585456
+		[370, 412, 437, 464, (67, 52)] BMW
+1.0
+		[363, 410, 437, 515, (74, 105)] Mercedes
+0.9247973
+		[374, 410, 437, 460, (63, 50)] Lamborghini
+0.81476307
+		[365, 414, 439, 468, (74, 54)] BMW
+0.99089044
+		[372, 466, 431, 516, (59, 50)] BMW
+0.7869353
+		[348, 408, 427, 487, (79, 79)] Lamborghini
+1.0
+		[360, 416, 440, 516, (80, 100)] Mercedes
+0.9999683
+		[374, 416, 440, 509, (66, 93)] Mercedes
+1.0
+		[372, 416, 440, 516, (68, 100)] Mercedes
+0.9967192
+		[365, 411, 439, 481, (74, 70)] BMW
+1.0
+		[365, 411, 439, 516, (74, 105)] Mercedes
+1.0
+		[370, 412, 437, 516, (67, 104)] Mercedes
+0.98784876
+		[365, 414, 439, 481, (74, 67)] BMW
+0.98936146
+		[379, 420, 431, 509, (52, 89)] Mercedes
+0.9993
+		[363, 410, 437, 486, (74, 76)] Lamborghini
+0.98321354
+		[372, 466, 431, 515, (59, 49)] BMW
+0.99982786
+		[374, 420, 440, 509, (66, 89)] Mercedes
+0.9989722
+		[372, 459, 431, 516, (59, 57)] BMW
+0.9988858
+		[348, 408, 462, 515, (114, 107)] Mercedes
+0.9999902
+		[377, 417, 430, 516, (53, 99)] Mercedes
+0.99880135
+		[374, 420, 431, 509, (57, 89)] Mercedes
+0.9186829
+		[363, 410, 437, 465, (74, 55)] BMW
+0.9996803
+		[377, 418, 428, 515, (51, 97)] Mercedes
+0.999204
+		[348, 408, 462, 516, (114, 108)] Mercedes
+Image #: 9
+	 True Bounding Boxes: [348 512 446 640]
+	 True Logo Present: Mercedes
+Image #9 Predictions:
+0.9700741
+		[359, 517, 431, 628, (72, 111)] Lamborghini
+0.8724645
+		[364, 532, 433, 638, (69, 106)] Mercedes
+0.9720014
+		[362, 525, 433, 624, (71, 99)] Mercedes
+Image #: 10
+	 True Bounding Boxes: [347 408 447 466]
+	 True Logo Present: Mercedes
+Image #10 Predictions:
+0.98004293
+		[483, 494, 524, 518, (41, 24)] Background
+0.99967766
+		[355, 417, 454, 466, (99, 49)] Mercedes
+0.9586695
+		[363, 418, 446, 465, (83, 47)] Mercedes
+0.9612892
+		[362, 418, 447, 464, (85, 46)] Mercedes
+Image #: 11
+	 True Bounding Boxes: [350 383 448 528]
+	 True Logo Present: Mercedes
+Image #11 Predictions:
+0.9999999
+		[357, 401, 454, 510, (97, 109)] Mercedes
+0.9999999
+		[357, 401, 438, 510, (81, 109)] Mercedes
+0.9808996
+		[362, 406, 433, 503, (71, 97)] Mercedes
+0.88965344
+		[368, 407, 433, 504, (65, 97)] Mercedes
+0.99999964
+		[357, 401, 438, 509, (81, 108)] Mercedes
+0.9999995
+		[357, 401, 438, 508, (81, 107)] Mercedes
+0.84027684
+		[368, 408, 433, 504, (65, 96)] Mercedes
+0.9998727
+		[357, 401, 436, 495, (79, 94)] Mercedes
+0.9976792
+		[314, 400, 438, 509, (124, 109)] Lamborghini
+0.99999976
+		[357, 401, 444, 509, (87, 108)] Mercedes
+Image #: 12
+	 True Bounding Boxes: [360 479 429 575]
+	 True Logo Present: Mercedes
+Image #12 Predictions:
+Image #: 13
+	 True Bounding Boxes: [348 392 459 533]
+	 True Logo Present: Mercedes
+Image #13 Predictions:
+0.96214175
+		[372, 415, 437, 497, (65, 82)] Lamborghini
+0.9996731
+		[368, 412, 481, 532, (113, 120)] Background
+0.9998635
+		[356, 412, 481, 527, (125, 115)] Mercedes
+0.9978598
+		[371, 415, 433, 522, (62, 107)] Mercedes
+0.9283543
+		[372, 415, 433, 497, (61, 82)] Lamborghini
+0.9688657
+		[372, 415, 437, 506, (65, 91)] Lamborghini
+0.81644267
+		[362, 409, 454, 465, (92, 56)] toyota
+0.7977933
+		[368, 410, 455, 467, (87, 57)] Lamborghini
+0.9371152
+		[372, 419, 434, 506, (62, 87)] Lamborghini
+0.94803435
+		[183, 536, 614, 614, (431, 78)] Background
+0.9997708
+		[369, 412, 481, 532, (112, 120)] Background
+0.9785145
+		[371, 415, 437, 510, (66, 95)] Lamborghini
+Image #: 14
+	 True Bounding Boxes: [350 392 453 521]
+	 True Logo Present: Mercedes
+Image #14 Predictions:
+0.9999995
+		[346, 397, 454, 513, (108, 116)] Mercedes
+0.84425783
+		[60, 669, 777, 742, (717, 73)] BMW
+0.99998283
+		[335, 394, 471, 513, (136, 119)] Mercedes
+0.91430247
+		[365, 457, 441, 509, (76, 52)] BMW
+0.99998486
+		[345, 401, 433, 513, (88, 112)] Mercedes
+0.90731734
+		[41, 669, 777, 743, (736, 74)] BMW
+0.99999964
+		[343, 395, 452, 513, (109, 118)] Mercedes
+0.999998
+		[365, 402, 441, 509, (76, 107)] Mercedes
+0.97343284
+		[345, 440, 433, 513, (88, 73)] BMW
+0.99999964
+		[346, 397, 457, 513, (111, 116)] Mercedes
+0.927778
+		[366, 401, 441, 482, (75, 81)] Lamborghini
+0.87000424
+		[366, 457, 441, 509, (75, 52)] BMW
+0.89455
+		[368, 394, 454, 467, (86, 73)] Lamborghini
+0.99999523
+		[343, 394, 466, 513, (123, 119)] Mercedes
+0.99999964
+		[366, 394, 454, 509, (88, 115)] Mercedes
+0.99993515
+		[367, 401, 440, 504, (73, 103)] Mercedes
+Image #: 15
+	 True Bounding Boxes: [370 502 434 611]
+	 True Logo Present: Mercedes
+Image #15 Predictions:
+0.99999917
+		[380, 511, 430, 602, (50, 91)] Mercedes
+0.9999999
+		[373, 511, 430, 602, (57, 91)] Mercedes
+0.99999714
+		[367, 513, 429, 600, (62, 87)] Mercedes
+0.9999974
+		[380, 513, 429, 600, (49, 87)] Mercedes
+0.98917997
+		[388, 529, 430, 602, (42, 73)] Mercedes
+0.9999938
+		[380, 513, 429, 598, (49, 85)] Mercedes
+0.7566866
+		[454, 629, 472, 683, (18, 54)] Lamborghini
+0.94094515
+		[450, 629, 472, 683, (22, 54)] Lamborghini
+Image #: 16
+	 True Bounding Boxes: [363 460 433 577]
+	 True Logo Present: Mercedes
+Image #16 Predictions:
+0.99851507
+		[360, 501, 455, 575, (95, 74)] Background
+0.87058204
+		[374, 475, 426, 540, (52, 65)] Lamborghini
+0.99999964
+		[372, 469, 429, 569, (57, 100)] Mercedes
+0.8915274
+		[374, 469, 427, 503, (53, 34)] BMW
+0.9996823
+		[372, 469, 429, 539, (57, 70)] Lamborghini
+0.8672506
+		[374, 492, 420, 565, (46, 73)] Mercedes
+0.9986059
+		[369, 522, 444, 575, (75, 53)] BMW
+0.9159146
+		[374, 469, 427, 504, (53, 35)] BMW
+0.9976799
+		[374, 475, 426, 565, (52, 90)] Mercedes
+Image #: 17
+	 True Bounding Boxes: [537 508 632 591]
+	 True Logo Present: Mercedes
+Image #17 Predictions:
+0.8979639
+		[150, 464, 202, 544, (52, 80)] Mercedes
+0.90211326
+		[157, 465, 216, 643, (59, 178)] BMW
+0.9738568
+		[552, 518, 616, 587, (64, 69)] Mercedes
+0.9895738
+		[552, 518, 616, 588, (64, 70)] Mercedes
+0.76393837
+		[601, 609, 625, 632, (24, 23)] BMW
+0.79215115
+		[631, 600, 649, 638, (18, 38)] Lamborghini
+0.99849224
+		[550, 518, 618, 594, (68, 76)] Mercedes
+0.9528876
+		[593, 602, 647, 636, (54, 34)] Lamborghini
+0.89150923
+		[531, 507, 655, 596, (124, 89)] Lamborghini
+Image #: 18
+	 True Bounding Boxes: [322 463 414 563]
+	 True Logo Present: Mercedes
+Image #18 Predictions:
+0.8492971
+		[391, 572, 423, 634, (32, 62)] Chevrolet
+0.7782547
+		[340, 473, 401, 558, (61, 85)] Mercedes
+0.89933485
+		[406, 572, 429, 642, (23, 70)] Background
+0.92041814
+		[402, 575, 429, 643, (27, 68)] Background
+0.7887466
+		[401, 575, 429, 643, (28, 68)] Background
+0.8905897
+		[394, 572, 423, 635, (29, 63)] Background
+Image #: 19
+	 True Bounding Boxes: [352 459 468 512]
+	 True Logo Present: Mercedes
+Image #19 Predictions:
+0.9829328
+		[367, 458, 458, 508, (91, 50)] Mercedes
+0.79405886
+		[367, 458, 458, 504, (91, 46)] Lamborghini
+0.9959378
+		[336, 456, 474, 512, (138, 56)] Lamborghini
+0.95284575
+		[367, 463, 457, 508, (90, 45)] Mercedes
+Image #: 20
+	 True Bounding Boxes: [346 342 400 393]
+	 True Logo Present: BMW
+Image #20 Predictions:
+Image #: 21
+	 True Bounding Boxes: [380 402 422 434]
+	 True Logo Present: BMW
+Image #21 Predictions:
+0.88120574
+		[515, 417, 650, 487, (135, 70)] Lamborghini
+0.9091859
+		[361, 408, 445, 432, (84, 24)] Lamborghini
+0.9209161
+		[515, 417, 647, 487, (132, 70)] Lamborghini
+Image #: 22
+	 True Bounding Boxes: [365 373 423 408]
+	 True Logo Present: BMW
+Image #22 Predictions:
+Image #: 23
+	 True Bounding Boxes: [296 424 331 454]
+	 True Logo Present: BMW
+Image #23 Predictions:
+Image #: 24
+	 True Bounding Boxes: [357 472 410 511]
+	 True Logo Present: BMW
+Image #24 Predictions:
+Image #: 25
+	 True Bounding Boxes: [378 385 423 417]
+	 True Logo Present: BMW
+Image #25 Predictions:
+Image #: 26
+	 True Bounding Boxes: [349 490 408 540]
+	 True Logo Present: BMW
+Image #26 Predictions:
+Image #: 27
+	 True Bounding Boxes: [380 400 432 431]
+	 True Logo Present: BMW
+Image #27 Predictions:
+Image #: 28
+	 True Bounding Boxes: [380 324 445 360]
+	 True Logo Present: BMW
+Image #28 Predictions:
+Image #: 29
+	 True Bounding Boxes: [371 322 438 372]
+	 True Logo Present: BMW
+Image #29 Predictions:
+Image #: 30
+	 True Bounding Boxes: [368 528 423 577]
+	 True Logo Present: BMW
+Image #30 Predictions:
+Image #: 31
+	 True Bounding Boxes: [365 324 434 388]
+	 True Logo Present: BMW
+Image #31 Predictions:
+Image #: 32
+	 True Bounding Boxes: [380 396 428 437]
+	 True Logo Present: BMW
+Image #32 Predictions:
+Image #: 33
+	 True Bounding Boxes: [371 277 435 320]
+	 True Logo Present: BMW
+Image #33 Predictions:
+Image #: 34
+	 True Bounding Boxes: [373 343 438 373]
+	 True Logo Present: BMW
+Image #34 Predictions:
+Image #: 35
+	 True Bounding Boxes: [374 422 432 451]
+	 True Logo Present: BMW
+Image #35 Predictions:
+Image #: 36
+	 True Bounding Boxes: [355 392 395 432]
+	 True Logo Present: BMW
+Image #36 Predictions:
+0.84793067
+		[358, 392, 389, 433, (31, 41)] Lamborghini
+0.85784787
+		[559, 363, 600, 492, (41, 129)] Background
+Image #: 37
+	 True Bounding Boxes: [376 425 410 456]
+	 True Logo Present: BMW
+Image #37 Predictions:
+Image #: 38
+	 True Bounding Boxes: [377 395 427 458]
+	 True Logo Present: BMW
+Image #38 Predictions:
+0.79389143
+		[381, 403, 424, 442, (43, 39)] BMW
+Image #: 39
+	 True Bounding Boxes: [377 502 428 534]
+	 True Logo Present: BMW
+Image #39 Predictions:
+Image #: 40
+	 True Bounding Boxes: [362 512 445 571]
+	 True Logo Present: Chevorlet
+Image #40 Predictions:
+0.99735546
+		[370, 537, 438, 562, (68, 25)] Chevrolet
+0.99703026
+		[366, 537, 438, 562, (72, 25)] Chevrolet
+0.90222776
+		[447, 615, 496, 664, (49, 49)] Lamborghini
+0.97710925
+		[332, 512, 445, 578, (113, 66)] Background
+0.9940467
+		[156, 417, 664, 585, (508, 168)] toyota
+0.98633885
+		[332, 515, 444, 578, (112, 63)] Background
+0.98364383
+		[367, 532, 441, 552, (74, 20)] Chevrolet
+0.7529594
+		[372, 531, 446, 549, (74, 18)] Chevrolet
+0.9999987
+		[146, 434, 655, 525, (509, 91)] Lamborghini
+0.9985116
+		[371, 536, 438, 562, (67, 26)] Chevrolet
+0.9999999
+		[156, 417, 664, 524, (508, 107)] toyota
+0.9999218
+		[370, 531, 446, 562, (76, 31)] Chevrolet
+0.999739
+		[373, 531, 442, 557, (69, 26)] Chevrolet
+0.9870608
+		[329, 514, 448, 581, (119, 67)] Background
+0.9994056
+		[373, 531, 433, 557, (60, 26)] Chevrolet
+0.9999989
+		[361, 517, 459, 583, (98, 66)] Background
+0.99631184
+		[367, 537, 436, 562, (69, 25)] Chevrolet
+Image #: 41
+	 True Bounding Boxes: [320 309 462 361]
+	 True Logo Present: Chevorlet
+Image #41 Predictions:
+0.8622369
+		[354, 322, 442, 348, (88, 26)] Chevrolet
+0.99872845
+		[339, 313, 455, 351, (116, 38)] Chevrolet
+0.94651175
+		[341, 313, 454, 345, (113, 32)] Chevrolet
+0.84151196
+		[341, 320, 441, 348, (100, 28)] Chevrolet
+0.9847919
+		[378, 313, 473, 352, (95, 39)] Chevrolet
+Image #: 42
+	 True Bounding Boxes: [340 431 457 481]
+	 True Logo Present: Chevorlet
+Image #42 Predictions:
+0.99897623
+		[361, 441, 444, 468, (83, 27)] Chevrolet
+0.7991313
+		[344, 449, 448, 474, (104, 25)] Chevrolet
+0.9134349
+		[359, 444, 435, 466, (76, 22)] Chevrolet
+0.9622322
+		[350, 444, 435, 467, (85, 23)] Chevrolet
+0.99180824
+		[349, 442, 434, 466, (85, 24)] Chevrolet
+0.99346995
+		[345, 443, 435, 468, (90, 25)] Chevrolet
+0.9977093
+		[359, 442, 444, 466, (85, 24)] Chevrolet
+0.9883903
+		[349, 443, 439, 466, (90, 23)] Chevrolet
+Image #: 43
+	 True Bounding Boxes: [361 370 465 422]
+	 True Logo Present: Chevorlet
+Image #43 Predictions:
+0.99991286
+		[378, 378, 446, 404, (68, 26)] BMW
+0.9999995
+		[366, 380, 459, 408, (93, 28)] Chevrolet
+0.9999763
+		[374, 377, 446, 404, (72, 27)] Background
+1.0
+		[366, 377, 457, 407, (91, 30)] Chevrolet
+1.0
+		[366, 377, 459, 408, (93, 31)] Chevrolet
+0.9999926
+		[314, 380, 473, 418, (159, 38)] Lamborghini
+0.99625957
+		[378, 383, 445, 404, (67, 21)] BMW
+0.987688
+		[379, 383, 445, 404, (66, 21)] BMW
+0.99999905
+		[366, 380, 458, 408, (92, 28)] Chevrolet
+0.9999914
+		[367, 382, 457, 406, (90, 24)] Chevrolet
+1.0
+		[366, 377, 458, 408, (92, 31)] Chevrolet
+Image #: 44
+	 True Bounding Boxes: [368 380 453 461]
+	 True Logo Present: Chevorlet
+Image #44 Predictions:
+0.75321794
+		[372, 399, 440, 437, (68, 38)] Chevrolet
+Image #: 45
+	 True Bounding Boxes: [368 349 432 392]
+	 True Logo Present: Chevorlet
+Image #45 Predictions:
+0.98861164
+		[385, 362, 421, 379, (36, 17)] BMW
+0.9993032
+		[350, 361, 445, 385, (95, 24)] Background
+0.9999826
+		[376, 359, 429, 378, (53, 19)] Chevrolet
+Image #: 46
+	 True Bounding Boxes: [345 367 462 431]
+	 True Logo Present: Chevorlet
+Image #46 Predictions:
+0.85453504
+		[379, 391, 457, 425, (78, 34)] Chevrolet
+0.99999905
+		[356, 387, 442, 417, (86, 30)] Chevrolet
+0.9999821
+		[352, 392, 443, 422, (91, 30)] Chevrolet
+0.9999999
+		[342, 379, 462, 412, (120, 33)] Lamborghini
+0.9999995
+		[342, 379, 421, 422, (79, 43)] Lamborghini
+0.9933469
+		[358, 387, 413, 416, (55, 29)] Background
+1.0
+		[342, 379, 462, 414, (120, 35)] Lamborghini
+0.9969446
+		[360, 387, 413, 416, (53, 29)] Background
+1.0
+		[360, 386, 447, 422, (87, 36)] Chevrolet
+0.9994029
+		[352, 396, 443, 422, (91, 26)] Chevrolet
+0.99998045
+		[362, 386, 442, 415, (80, 29)] Background
+0.99961984
+		[357, 386, 414, 417, (57, 31)] Chevrolet
+1.0
+		[341, 379, 463, 425, (122, 46)] Chevrolet
+0.99999833
+		[360, 386, 442, 416, (82, 30)] Background
+1.0
+		[353, 385, 445, 423, (92, 38)] Chevrolet
+0.77189237
+		[352, 402, 441, 424, (89, 22)] Background
+1.0
+		[353, 381, 445, 423, (92, 42)] Chevrolet
+0.999438
+		[358, 385, 450, 407, (92, 22)] Chevrolet
+0.8011824
+		[389, 386, 441, 416, (52, 30)] Background
+0.99999154
+		[353, 385, 419, 423, (66, 38)] Chevrolet
+Image #: 47
+	 True Bounding Boxes: [348 411 441 468]
+	 True Logo Present: Chevorlet
+Image #47 Predictions:
+0.9999944
+		[365, 427, 425, 459, (60, 32)] Chevrolet
+1.0
+		[357, 419, 449, 449, (92, 30)] Background
+0.9999995
+		[365, 425, 428, 454, (63, 29)] Chevrolet
+1.0
+		[357, 418, 439, 455, (82, 37)] Chevrolet
+0.99721175
+		[364, 432, 429, 460, (65, 28)] Background
+0.9152522
+		[268, 403, 528, 453, (260, 50)] toyota
+0.9972287
+		[364, 432, 428, 454, (64, 22)] Chevrolet
+0.8562182
+		[113, 417, 385, 694, (272, 277)] Lamborghini
+0.9999994
+		[343, 419, 469, 452, (126, 33)] Background
+0.999992
+		[363, 426, 426, 452, (63, 26)] Background
+0.8782691
+		[268, 404, 526, 452, (258, 48)] toyota
+1.0
+		[343, 419, 439, 452, (96, 33)] Background
+0.9999999
+		[364, 423, 428, 454, (64, 31)] Chevrolet
+1.0
+		[363, 423, 428, 454, (65, 31)] Chevrolet
+0.9999901
+		[330, 418, 439, 449, (109, 31)] BMW
+0.9999988
+		[343, 418, 432, 449, (89, 31)] BMW
+0.99999964
+		[343, 423, 428, 454, (85, 31)] Lamborghini
+0.9999584
+		[368, 426, 426, 453, (58, 27)] Chevrolet
+0.99999964
+		[330, 418, 439, 452, (109, 34)] Background
+0.99852777
+		[369, 425, 428, 446, (59, 21)] Chevrolet
+1.0
+		[330, 418, 439, 454, (109, 36)] Background
+1.0
+		[363, 423, 429, 460, (66, 37)] Chevrolet
+0.9851268
+		[268, 404, 526, 455, (258, 51)] toyota
+1.0
+		[357, 419, 449, 453, (92, 34)] Background
+0.9898864
+		[254, 399, 541, 459, (287, 60)] Lamborghini
+1.0
+		[357, 419, 449, 459, (92, 40)] Chevrolet
+1.0
+		[330, 418, 439, 460, (109, 42)] Lamborghini
+1.0
+		[364, 423, 429, 460, (65, 37)] Chevrolet
+1.0
+		[343, 419, 439, 459, (96, 40)] Background
+0.99999785
+		[369, 425, 428, 454, (59, 29)] Chevrolet
+0.8097484
+		[113, 417, 450, 694, (337, 277)] Lamborghini
+0.9999999
+		[365, 425, 428, 459, (63, 34)] Chevrolet
+0.8529564
+		[254, 403, 540, 454, (286, 51)] toyota
+0.91992706
+		[268, 399, 561, 455, (293, 56)] Lamborghini
+0.99403423
+		[254, 403, 540, 486, (286, 83)] Background
+Image #: 48
+	 True Bounding Boxes: [359 395 455 457]
+	 True Logo Present: Chevorlet
+Image #48 Predictions:
+0.9999999
+		[361, 415, 441, 446, (80, 31)] Chevrolet
+0.9999999
+		[368, 416, 442, 450, (74, 34)] Background
+0.99826884
+		[344, 399, 564, 455, (220, 56)] BMW
+0.9741667
+		[241, 400, 558, 480, (317, 80)] Lamborghini
+0.9365631
+		[241, 398, 572, 480, (331, 82)] Lamborghini
+1.0
+		[368, 413, 443, 450, (75, 37)] Lamborghini
+1.0
+		[369, 413, 440, 446, (71, 33)] Chevrolet
+0.99999976
+		[369, 415, 441, 446, (72, 31)] Chevrolet
+0.9999989
+		[360, 410, 452, 439, (92, 29)] Lamborghini
+0.9605522
+		[395, 413, 453, 439, (58, 26)] Lamborghini
+0.9935276
+		[374, 410, 442, 432, (68, 22)] Chevrolet
+1.0
+		[369, 409, 453, 447, (84, 38)] Chevrolet
+0.9658806
+		[241, 399, 571, 480, (330, 81)] Lamborghini
+0.9999994
+		[369, 415, 441, 447, (72, 32)] Lamborghini
+0.99999976
+		[367, 415, 441, 446, (74, 31)] Chevrolet
+1.0
+		[368, 410, 442, 450, (74, 40)] Lamborghini
+0.934252
+		[250, 399, 563, 453, (313, 54)] BMW
+0.9999988
+		[359, 408, 453, 440, (94, 32)] Chevrolet
+0.999087
+		[345, 399, 563, 455, (218, 56)] BMW
+0.9999999
+		[344, 413, 443, 450, (99, 37)] BMW
+0.99983954
+		[368, 413, 417, 450, (49, 37)] Lamborghini
+0.99999905
+		[344, 416, 442, 455, (98, 39)] BMW
+1.0
+		[369, 413, 440, 447, (71, 34)] Lamborghini
+1.0
+		[361, 415, 441, 450, (80, 35)] Background
+0.93280154
+		[250, 399, 564, 455, (314, 56)] BMW
+1.0
+		[359, 408, 453, 455, (94, 47)] Chevrolet
+0.9999951
+		[374, 409, 453, 439, (79, 30)] BMW
+1.0
+		[369, 409, 453, 455, (84, 46)] Lamborghini
+0.9999981
+		[360, 407, 453, 439, (93, 32)] Chevrolet
+1.0
+		[360, 410, 452, 450, (92, 40)] Chevrolet
+1.0
+		[344, 410, 442, 455, (98, 45)] Lamborghini
+0.9824889
+		[344, 410, 552, 450, (208, 40)] Lamborghini
+1.0
+		[359, 408, 453, 446, (94, 38)] Chevrolet
+0.96682435
+		[262, 399, 563, 455, (301, 56)] BMW
+0.9293847
+		[262, 399, 564, 455, (302, 56)] BMW
+1.0
+		[344, 410, 452, 450, (108, 40)] Lamborghini
+0.94866735
+		[250, 399, 563, 455, (313, 56)] BMW
+0.8505064
+		[250, 399, 563, 446, (313, 47)] toyota
+1.0
+		[360, 410, 452, 455, (92, 45)] Chevrolet
+0.9431781
+		[250, 399, 564, 450, (314, 51)] BMW
+0.99566746
+		[344, 399, 564, 450, (220, 51)] BMW
+Image #: 49
+	 True Bounding Boxes: [359 358 451 424]
+	 True Logo Present: Chevorlet
+Image #49 Predictions:
+1.0
+		[361, 371, 447, 404, (86, 33)] Chevrolet
+0.99996996
+		[371, 380, 432, 410, (61, 30)] Background
+0.99995244
+		[369, 381, 433, 411, (64, 30)] Lamborghini
+1.0
+		[359, 358, 493, 427, (134, 69)] Background
+0.99999964
+		[359, 358, 493, 412, (134, 54)] Background
+0.999979
+		[369, 376, 436, 401, (67, 25)] Chevrolet
+0.99999964
+		[368, 380, 447, 413, (79, 33)] Lamborghini
+0.99999976
+		[359, 358, 427, 412, (68, 54)] Background
+0.9999851
+		[369, 380, 432, 410, (63, 30)] Background
+0.9999999
+		[366, 379, 440, 412, (74, 33)] Lamborghini
+0.9858655
+		[349, 371, 566, 419, (217, 48)] Background
+0.97424215
+		[369, 376, 414, 401, (45, 25)] Chevrolet
+1.0
+		[359, 370, 449, 407, (90, 37)] Chevrolet
+0.99997294
+		[369, 381, 433, 412, (64, 31)] Lamborghini
+0.9999883
+		[358, 370, 491, 408, (133, 38)] Chevrolet
+0.9998584
+		[368, 384, 447, 413, (79, 29)] Chevrolet
+0.99788946
+		[368, 385, 443, 412, (75, 27)] Chevrolet
+0.9999713
+		[359, 370, 493, 407, (134, 37)] Chevrolet
+0.99999976
+		[359, 370, 427, 407, (68, 37)] Chevrolet
+0.8736174
+		[374, 379, 436, 396, (62, 17)] Chevrolet
+Image #: 50
+	 True Bounding Boxes: [115 414 171 480]
+	 True Logo Present: Chevorlet
+Image #50 Predictions:
+0.999637
+		[124, 433, 166, 463, (42, 30)] Background
+0.8103532
+		[130, 534, 179, 540, (49, 6)] Lamborghini
+0.911833
+		[490, 110, 579, 217, (89, 107)] Lamborghini
+0.8224523
+		[670, 407, 754, 614, (84, 207)] Mercedes
+0.99978775
+		[124, 429, 166, 456, (42, 27)] BMW
+0.997934
+		[128, 429, 165, 460, (37, 31)] Background
+0.99990153
+		[122, 423, 166, 455, (44, 32)] Chevrolet
+0.9415796
+		[77, 429, 168, 464, (91, 35)] Lamborghini
+0.8704428
+		[478, 110, 579, 232, (101, 122)] BMW
+0.8285463
+		[684, 407, 754, 614, (70, 207)] Background
+Image #: 51
+	 True Bounding Boxes: [353 309 438 349]
+	 True Logo Present: Chevorlet
+Image #51 Predictions:
+0.9999958
+		[370, 322, 427, 343, (57, 21)] Chevrolet
+0.99984944
+		[373, 323, 425, 339, (52, 16)] Chevrolet
+0.9999988
+		[371, 319, 427, 339, (56, 20)] Chevrolet
+0.99263656
+		[320, 322, 427, 344, (107, 22)] Lamborghini
+Image #: 52
+	 True Bounding Boxes: [321 442 468 511]
+	 True Logo Present: Chevorlet
+Image #52 Predictions:
+0.98245126
+		[325, 457, 464, 500, (139, 43)] Chevrolet
+0.9118834
+		[545, 420, 758, 510, (213, 90)] Lamborghini
+Image #: 53
+	 True Bounding Boxes: [349 437 428 475]
+	 True Logo Present: Chevorlet
+Image #53 Predictions:
+Image #: 54
+	 True Bounding Boxes: [485 370 573 437]
+	 True Logo Present: Chevorlet
+Image #54 Predictions:
+0.99994874
+		[491, 365, 571, 417, (80, 52)] Background
+0.99999976
+		[490, 365, 571, 428, (81, 63)] Background
+0.8388209
+		[569, 378, 759, 631, (190, 253)] Background
+0.79186666
+		[570, 374, 770, 621, (200, 247)] Background
+0.9540982
+		[506, 388, 563, 415, (57, 27)] Background
+0.94547766
+		[505, 388, 563, 415, (58, 27)] Background
+0.97325426
+		[560, 516, 628, 570, (68, 54)] Lamborghini
+0.9998085
+		[500, 382, 568, 417, (68, 35)] Chevrolet
+0.8695976
+		[580, 517, 628, 570, (48, 53)] Background
+0.82541627
+		[570, 374, 776, 722, (206, 348)] Chevrolet
+0.99758875
+		[498, 384, 563, 416, (65, 32)] Chevrolet
+0.99999964
+		[497, 364, 603, 428, (106, 64)] Background
+0.9812556
+		[504, 387, 562, 414, (58, 27)] Background
+0.99999964
+		[490, 365, 571, 427, (81, 62)] Background
+0.9875765
+		[505, 387, 563, 417, (58, 30)] Background
+0.99999416
+		[460, 360, 603, 428, (143, 68)] Background
+0.9091823
+		[580, 516, 628, 570, (48, 54)] Background
+Image #: 55
+	 True Bounding Boxes: [339 382 460 437]
+	 True Logo Present: Chevorlet
+Image #55 Predictions:
+0.80378324
+		[342, 392, 425, 422, (83, 30)] Lamborghini
+0.9998056
+		[352, 405, 454, 432, (102, 27)] Chevrolet
+0.81354696
+		[361, 398, 443, 418, (82, 20)] Chevrolet
+0.99999905
+		[343, 395, 443, 427, (100, 32)] Background
+1.0
+		[344, 392, 462, 439, (118, 47)] Chevrolet
+0.94072145
+		[363, 401, 440, 425, (77, 24)] Background
+0.99999714
+		[342, 386, 462, 422, (120, 36)] Chevrolet
+1.0
+		[342, 386, 462, 441, (120, 55)] Chevrolet
+0.98924327
+		[351, 398, 415, 428, (64, 30)] Chevrolet
+0.99999905
+		[356, 399, 443, 433, (87, 34)] Chevrolet
+0.9999988
+		[351, 398, 446, 428, (95, 30)] Chevrolet
+1.0
+		[342, 392, 462, 434, (120, 42)] Chevrolet
+0.99993134
+		[342, 405, 454, 435, (112, 30)] Chevrolet
+0.99527365
+		[366, 404, 456, 441, (90, 37)] Background
+0.9748845
+		[363, 401, 440, 426, (77, 25)] Background
+1.0
+		[343, 393, 462, 427, (119, 34)] Chevrolet
+0.97796065
+		[362, 397, 413, 427, (51, 30)] Background
+1.0
+		[349, 392, 461, 427, (112, 35)] Lamborghini
+Image #: 56
+	 True Bounding Boxes: [341 422 451 480]
+	 True Logo Present: Chevorlet
+Image #56 Predictions:
+0.9992786
+		[358, 439, 434, 463, (76, 24)] Background
+1.0
+		[343, 436, 451, 474, (108, 38)] Chevrolet
+0.9996563
+		[359, 438, 434, 463, (75, 25)] Background
+0.9999987
+		[342, 438, 434, 474, (92, 36)] Chevrolet
+0.99999666
+		[342, 438, 434, 468, (92, 30)] Background
+0.9999113
+		[355, 438, 435, 463, (80, 25)] Background
+0.9999999
+		[359, 419, 454, 463, (95, 44)] Background
+0.9999993
+		[360, 419, 454, 462, (94, 43)] Background
+1.0
+		[342, 429, 454, 468, (112, 39)] Chevrolet
+0.99999547
+		[351, 438, 433, 474, (82, 36)] Chevrolet
+0.9999546
+		[342, 430, 469, 457, (127, 27)] Chevrolet
+1.0
+		[305, 430, 469, 474, (164, 44)] Chevrolet
+0.9999999
+		[360, 429, 454, 462, (94, 33)] Chevrolet
+0.9999926
+		[308, 429, 452, 463, (144, 34)] BMW
+0.9917536
+		[375, 440, 451, 474, (76, 34)] Chevrolet
+0.9598601
+		[342, 438, 410, 466, (68, 28)] Chevrolet
+0.99995863
+		[355, 438, 435, 465, (80, 27)] Chevrolet
+0.9999995
+		[342, 438, 438, 476, (96, 38)] Chevrolet
+0.9999988
+		[343, 440, 451, 474, (108, 34)] Chevrolet
+1.0
+		[342, 429, 454, 474, (112, 45)] Chevrolet
+1.0
+		[359, 429, 454, 468, (95, 39)] Background
+0.99992585
+		[308, 429, 452, 461, (144, 32)] BMW
+0.9999572
+		[359, 439, 437, 468, (78, 29)] Chevrolet
+0.9999995
+		[357, 436, 439, 466, (82, 30)] Chevrolet
+1.0
+		[342, 429, 454, 466, (112, 37)] Chevrolet
+1.0
+		[305, 430, 469, 473, (164, 43)] Chevrolet
+0.9999486
+		[357, 439, 434, 467, (77, 28)] Background
+0.9999976
+		[337, 438, 433, 476, (96, 38)] Chevrolet
+0.99999964
+		[362, 429, 454, 462, (92, 33)] Chevrolet
+0.9998833
+		[342, 430, 437, 457, (95, 27)] Chevrolet
+0.98505855
+		[360, 436, 442, 455, (82, 19)] Chevrolet
+0.99790084
+		[343, 440, 420, 474, (77, 34)] Chevrolet
+Image #: 57
+	 True Bounding Boxes: [364 269 431 316]
+	 True Logo Present: Chevorlet
+Image #57 Predictions:
+0.9948718
+		[375, 287, 421, 303, (46, 16)] Chevrolet
+0.99842846
+		[377, 285, 420, 303, (43, 18)] Background
+0.99999475
+		[374, 281, 422, 304, (48, 23)] Lamborghini
+0.9999422
+		[360, 285, 418, 310, (58, 25)] Background
+1.0
+		[360, 281, 430, 320, (70, 39)] Chevrolet
+0.99999905
+		[370, 281, 430, 304, (60, 23)] Chevrolet
+1.0
+		[360, 280, 430, 320, (70, 40)] Chevrolet
+Image #: 58
+	 True Bounding Boxes: [333 380 480 438]
+	 True Logo Present: Chevorlet
+Image #58 Predictions:
+0.9999585
+		[344, 390, 472, 430, (128, 40)] Chevrolet
+0.999887
+		[321, 386, 496, 431, (175, 45)] Chevrolet
+0.9989642
+		[357, 389, 456, 428, (99, 39)] Chevrolet
+0.9940202
+		[358, 396, 460, 430, (102, 34)] Chevrolet
+0.9998355
+		[344, 390, 471, 429, (127, 39)] Chevrolet
+0.89675677
+		[321, 386, 475, 420, (154, 34)] Background
+0.9999951
+		[344, 390, 486, 435, (142, 45)] Chevrolet
+0.9763569
+		[357, 396, 460, 428, (103, 32)] Chevrolet
+0.9997073
+		[321, 390, 471, 430, (150, 40)] BMW
+0.995139
+		[358, 396, 458, 431, (100, 35)] Chevrolet
+Image #: 59
+	 True Bounding Boxes: [349 468 472 524]
+	 True Logo Present: Chevorlet
+Image #59 Predictions:
+0.9294764
+		[645, 498, 694, 545, (49, 47)] Lamborghini
+0.9995441
+		[361, 481, 466, 516, (105, 35)] Chevrolet
+0.9295338
+		[334, 73, 387, 94, (53, 21)] Lamborghini
+0.9993998
+		[361, 481, 468, 515, (107, 34)] Chevrolet
+0.9143144
+		[334, 74, 389, 93, (55, 19)] Lamborghini
+0.9995338
+		[357, 481, 466, 517, (109, 36)] Chevrolet
+0.8782833
+		[360, 477, 472, 504, (112, 27)] BMW
+0.9993205
+		[357, 481, 465, 516, (108, 35)] Chevrolet
+0.99065065
+		[355, 477, 472, 506, (117, 29)] Lamborghini
+Image #: 60
+	 True Bounding Boxes: [359 465 442 520]
+	 True Logo Present: Chevorlet
+Image #60 Predictions:
+0.99228257
+		[362, 474, 414, 504, (52, 30)] Lamborghini
+0.99868876
+		[311, 473, 468, 532, (157, 59)] Lamborghini
+0.9999994
+		[360, 458, 447, 508, (87, 50)] toyota
+0.8597658
+		[643, 564, 694, 640, (51, 76)] BMW
+0.8570549
+		[640, 555, 693, 643, (53, 88)] BMW
+0.8662507
+		[644, 564, 694, 640, (50, 76)] BMW
+0.9378151
+		[643, 555, 693, 643, (50, 88)] BMW
+0.9999553
+		[371, 474, 437, 504, (66, 30)] Chevrolet
+0.84396595
+		[640, 560, 693, 640, (53, 80)] BMW
+0.9999993
+		[363, 472, 440, 508, (77, 36)] Chevrolet
+0.9913127
+		[362, 480, 416, 508, (54, 28)] Chevrolet
+0.79448795
+		[390, 473, 468, 528, (78, 55)] Lamborghini
+0.78703105
+		[472, 569, 504, 626, (32, 57)] Lamborghini
+0.9999987
+		[364, 473, 441, 508, (77, 35)] Chevrolet
+0.99469477
+		[364, 480, 416, 508, (52, 28)] Chevrolet
+0.9999969
+		[363, 474, 437, 508, (74, 34)] Chevrolet
+0.8853322
+		[643, 564, 689, 632, (46, 68)] BMW
+0.8350601
+		[639, 555, 696, 644, (57, 89)] BMW
+0.824163
+		[640, 561, 693, 636, (53, 75)] BMW
+0.99999774
+		[363, 474, 434, 508, (71, 34)] Chevrolet
+0.77520055
+		[640, 561, 694, 640, (54, 79)] BMW
+0.8036115
+		[390, 478, 447, 527, (57, 49)] Lamborghini
+0.99988985
+		[363, 474, 437, 503, (74, 29)] BMW
+0.9992761
+		[390, 473, 446, 524, (56, 51)] Lamborghini
+Image #: 61
+	 True Bounding Boxes: [353 397 456 457]
+	 True Logo Present: Chevorlet
+Image #61 Predictions:
+0.934252
+		[250, 399, 563, 453, (313, 54)] BMW
+0.96682435
+		[262, 399, 563, 455, (301, 56)] BMW
+0.9999989
+		[360, 410, 452, 439, (92, 29)] Lamborghini
+0.9741667
+		[241, 400, 558, 480, (317, 80)] Lamborghini
+1.0
+		[368, 413, 443, 450, (75, 37)] Lamborghini
+0.99999976
+		[369, 415, 441, 446, (72, 31)] Chevrolet
+0.9365631
+		[241, 398, 572, 480, (331, 82)] Lamborghini
+1.0
+		[368, 410, 442, 450, (74, 40)] Lamborghini
+0.9999951
+		[374, 409, 453, 439, (79, 30)] BMW
+0.9935276
+		[374, 410, 442, 432, (68, 22)] Chevrolet
+1.0
+		[369, 413, 440, 447, (71, 34)] Lamborghini
+0.9999999
+		[368, 416, 442, 450, (74, 34)] Background
+0.9293847
+		[262, 399, 564, 455, (302, 56)] BMW
+0.9658806
+		[241, 399, 571, 480, (330, 81)] Lamborghini
+0.9605522
+		[395, 413, 453, 439, (58, 26)] Lamborghini
+1.0
+		[360, 410, 452, 455, (92, 45)] Chevrolet
+0.9999988
+		[359, 408, 453, 440, (94, 32)] Chevrolet
+0.9999999
+		[361, 415, 441, 446, (80, 31)] Chevrolet
+0.99983954
+		[368, 413, 417, 450, (49, 37)] Lamborghini
+1.0
+		[359, 408, 453, 455, (94, 47)] Chevrolet
+0.99999976
+		[367, 415, 441, 446, (74, 31)] Chevrolet
+0.9999981
+		[360, 407, 453, 439, (93, 32)] Chevrolet
+0.94866735
+		[250, 399, 563, 455, (313, 56)] BMW
+1.0
+		[369, 413, 440, 446, (71, 33)] Chevrolet
+1.0
+		[359, 408, 453, 446, (94, 38)] Chevrolet
+0.93280154
+		[250, 399, 564, 455, (314, 56)] BMW
+0.9999994
+		[369, 415, 441, 447, (72, 32)] Lamborghini
+0.999087
+		[345, 399, 563, 455, (218, 56)] BMW
+1.0
+		[361, 415, 441, 450, (80, 35)] Background
+1.0
+		[344, 410, 452, 450, (108, 40)] Lamborghini
+0.9431781
+		[250, 399, 564, 450, (314, 51)] BMW
+0.9999999
+		[344, 413, 443, 450, (99, 37)] BMW
+1.0
+		[369, 409, 453, 447, (84, 38)] Chevrolet
+0.99999905
+		[344, 416, 442, 455, (98, 39)] BMW
+1.0
+		[369, 409, 453, 455, (84, 46)] Lamborghini
+0.99826884
+		[344, 399, 564, 455, (220, 56)] BMW
+1.0
+		[360, 410, 452, 450, (92, 40)] Chevrolet
+1.0
+		[344, 410, 442, 455, (98, 45)] Lamborghini
+0.9824889
+		[344, 410, 552, 450, (208, 40)] Lamborghini
+0.99566746
+		[344, 399, 564, 450, (220, 51)] BMW
+0.8505064
+		[250, 399, 563, 446, (313, 47)] toyota
+Image #: 62
+	 True Bounding Boxes: [380 496 415 524]
+	 True Logo Present: Lamborghini
+Image #62 Predictions:
+0.9999695
+		[399, 570, 601, 617, (202, 47)] Lamborghini
+0.8088734
+		[398, 568, 556, 602, (158, 34)] Lamborghini
+0.90815276
+		[207, 551, 601, 640, (394, 89)] Lamborghini
+0.9184879
+		[207, 568, 598, 640, (391, 72)] Lamborghini
+Image #: 63
+	 True Bounding Boxes: [572 378 603 409]
+	 True Logo Present: Lamborghini
+Image #63 Predictions:
+0.84185916
+		[314, 454, 451, 550, (137, 96)] Chevrolet
+0.8955765
+		[314, 472, 440, 550, (126, 78)] Chevrolet
+0.89179003
+		[288, 546, 358, 596, (70, 50)] Lamborghini
+0.85638696
+		[290, 524, 357, 577, (67, 53)] Background
+0.839771
+		[325, 504, 478, 593, (153, 89)] Lamborghini
+0.9640898
+		[698, 456, 748, 526, (50, 70)] BMW
+0.9503782
+		[284, 502, 556, 610, (272, 108)] Lamborghini
+Image #: 64
+	 True Bounding Boxes: [211 477 240 512]
+	 True Logo Present: Lamborghini
+Image #64 Predictions:
+Image #: 65
+	 True Bounding Boxes: [480 620 502 645]
+	 True Logo Present: Lamborghini
+Image #65 Predictions:
+Image #: 66
+	 True Bounding Boxes: [378 521 420 567]
+	 True Logo Present: Lamborghini
+Image #66 Predictions:
+Image #: 67
+	 True Bounding Boxes: [211 451 242 491]
+	 True Logo Present: Lamborghini
+Image #67 Predictions:
+Image #: 68
+	 True Bounding Boxes: [608 358 652 404]
+	 True Logo Present: Lamborghini
+Image #68 Predictions:
+0.9941817
+		[349, 507, 494, 589, (145, 82)] Lamborghini
+0.99858654
+		[349, 494, 503, 589, (154, 95)] Lamborghini
+0.9566467
+		[289, 519, 535, 653, (246, 134)] BMW
+0.9957203
+		[357, 494, 494, 572, (137, 78)] Chevrolet
+0.9479506
+		[289, 519, 578, 653, (289, 134)] Lamborghini
+0.8191833
+		[310, 520, 580, 652, (270, 132)] Lamborghini
+0.9639449
+		[292, 519, 530, 652, (238, 133)] BMW
+0.9964259
+		[356, 494, 503, 589, (147, 95)] Lamborghini
+0.84779716
+		[358, 427, 684, 514, (326, 87)] toyota
+0.8343482
+		[661, 408, 724, 488, (63, 80)] Lamborghini
+0.96794474
+		[364, 428, 648, 504, (284, 76)] Lamborghini
+0.98279446
+		[357, 487, 489, 563, (132, 76)] Chevrolet
+0.9978508
+		[337, 487, 489, 594, (152, 107)] Chevrolet
+0.8122812
+		[372, 505, 499, 589, (127, 84)] Lamborghini
+0.98219174
+		[364, 428, 647, 503, (283, 75)] Lamborghini
+0.7548998
+		[364, 428, 684, 504, (320, 76)] Lamborghini
+0.98877805
+		[337, 484, 480, 592, (143, 108)] Chevrolet
+Image #: 69
+	 True Bounding Boxes: [617 434 657 470]
+	 True Logo Present: Lamborghini
+Image #69 Predictions:
+Image #: 70
+	 True Bounding Boxes: [359 497 419 532]
+	 True Logo Present: Lamborghini
+Image #70 Predictions:
+0.84071743
+		[370, 499, 405, 536, (35, 37)] Lamborghini
+0.797056
+		[370, 499, 405, 530, (35, 31)] Lamborghini
+Image #: 71
+	 True Bounding Boxes: [379 549 432 590]
+	 True Logo Present: Lamborghini
+Image #71 Predictions:
+Image #: 72
+	 True Bounding Boxes: [368 562 435 628]
+	 True Logo Present: Lamborghini
+Image #72 Predictions:
+Image #: 73
+	 True Bounding Boxes: [379 482 419 544]
+	 True Logo Present: Lamborghini
+Image #73 Predictions:
+0.9992518
+		[128, 299, 654, 564, (526, 265)] toyota
+0.9977204
+		[124, 301, 699, 669, (575, 368)] BMW
+0.9994646
+		[177, 298, 680, 589, (503, 291)] toyota
+0.99612087
+		[107, 304, 546, 653, (439, 349)] Background
+0.99799806
+		[107, 304, 672, 653, (565, 349)] Lamborghini
+0.9252083
+		[274, 155, 332, 233, (58, 78)] BMW
+0.9978186
+		[107, 288, 672, 588, (565, 300)] toyota
+Image #: 74
+	 True Bounding Boxes: [561 475 605 511]
+	 True Logo Present: Lamborghini
+Image #74 Predictions:
+0.81333965
+		[47, 313, 93, 342, (46, 29)] toyota
+0.8105474
+		[568, 481, 618, 526, (50, 45)] toyota
+Image #: 75
+	 True Bounding Boxes: [383 490 415 542]
+	 True Logo Present: Lamborghini
+Image #75 Predictions:
+Image #: 76
+	 True Bounding Boxes: [388 423 443 460]
+	 True Logo Present: Lamborghini
+Image #76 Predictions:
+0.9046332
+		[399, 416, 435, 459, (36, 43)] Lamborghini
+0.82082736
+		[106, 531, 320, 599, (214, 68)] Chevrolet
+0.9294114
+		[399, 422, 435, 459, (36, 37)] Lamborghini
+Image #: 77
+	 True Bounding Boxes: [381 398 421 462]
+	 True Logo Present: Lamborghini
+Image #77 Predictions:
+0.894258
+		[138, 342, 370, 599, (232, 257)] Background
+0.8501642
+		[681, 722, 727, 763, (46, 41)] Background
+0.87629783
+		[230, 378, 642, 485, (412, 107)] Lamborghini
+0.7732714
+		[133, 320, 167, 652, (34, 332)] Background
+0.83882475
+		[261, 341, 642, 486, (381, 145)] toyota
+0.9852047
+		[200, 484, 275, 527, (75, 43)] toyota
+0.8888121
+		[739, 723, 766, 760, (27, 37)] Chevrolet
+Image #: 78
+	 True Bounding Boxes: [387 444 416 487]
+	 True Logo Present: Lamborghini
+Image #78 Predictions:
+Image #: 79
+	 True Bounding Boxes: [478 473 508 520]
+	 True Logo Present: Lamborghini
+Image #79 Predictions:
+Image #: 80
+	 True Bounding Boxes: [394 470 431 522]
+	 True Logo Present: Lamborghini
+Image #80 Predictions:
+0.9062777
+		[397, 480, 431, 517, (34, 37)] Lamborghini
+Image #: 81
+	 True Bounding Boxes: [498 481 538 520]
+	 True Logo Present: Lamborghini
+Image #81 Predictions:
+0.776734
+		[209, 404, 247, 598, (38, 194)] BMW
+Image #: 82
+	 True Bounding Boxes: [483 499 553 552]
+	 True Logo Present: Toyota
+Image #82 Predictions:
+Image #: 83
+	 True Bounding Boxes: [362 384 435 464]
+	 True Logo Present: Toyota
+Image #83 Predictions:
+Image #: 84
+	 True Bounding Boxes: [362 352 442 428]
+	 True Logo Present: Toyota
+Image #84 Predictions:
+Image #: 85
+	 True Bounding Boxes: [373 313 438 381]
+	 True Logo Present: Toyota
+Image #85 Predictions:
+Image #: 86
+	 True Bounding Boxes: [353 331 449 416]
+	 True Logo Present: Toyota
+Image #86 Predictions:
+0.9706816
+		[369, 343, 431, 398, (62, 55)] toyota
+0.9530972
+		[369, 344, 431, 397, (62, 53)] toyota
+0.96627444
+		[369, 344, 431, 398, (62, 54)] toyota
+0.9421607
+		[369, 344, 431, 395, (62, 51)] toyota
+0.97902745
+		[367, 343, 431, 399, (64, 56)] toyota
+0.9637113
+		[369, 343, 433, 398, (64, 55)] toyota
+Image #: 87
+	 True Bounding Boxes: [350 382 449 464]
+	 True Logo Present: Toyota
+Image #87 Predictions:
+0.7549732
+		[366, 397, 426, 450, (60, 53)] toyota
+0.8647074
+		[370, 397, 426, 447, (56, 50)] toyota
+0.81477755
+		[370, 397, 430, 447, (60, 50)] toyota
+Image #: 88
+	 True Bounding Boxes: [617 365 668 423]
+	 True Logo Present: Logo
+Image #88 Predictions:
+Image #: 89
+	 True Bounding Boxes: [346 448 447 536]
+	 True Logo Present: Toyota
+Image #89 Predictions:
+Image #: 90
+	 True Bounding Boxes: [432 463 525 534]
+	 True Logo Present: Toyota
+Image #90 Predictions:
+0.90733886
+		[162, 531, 209, 593, (47, 62)] BMW
+0.8189276
+		[614, 411, 682, 461, (68, 50)] Background
+0.7564786
+		[158, 528, 212, 588, (54, 60)] BMW
+0.81148225
+		[93, 191, 151, 267, (58, 76)] BMW
+0.864863
+		[164, 532, 208, 591, (44, 59)] BMW
+0.7949771
+		[85, 586, 174, 671, (89, 85)] BMW
+0.8540338
+		[162, 531, 211, 591, (49, 60)] BMW
+0.8103092
+		[585, 422, 682, 459, (97, 37)] Background
+0.8460339
+		[164, 531, 208, 591, (44, 60)] BMW
+Image #: 91
+	 True Bounding Boxes: [129 377 187 444]
+	 True Logo Present: Toyota
+Image #91 Predictions:
+0.8872868
+		[540, 185, 605, 300, (65, 115)] Background
+0.8410548
+		[532, 184, 606, 301, (74, 117)] Background
+Image #: 92
+	 True Bounding Boxes: [211 397 283 465]
+	 True Logo Present: Toyota
+Image #92 Predictions:
+Image #: 93
+	 True Bounding Boxes: [359 325 454 405]
+	 True Logo Present: Toyota
+Image #93 Predictions:
+Image #: 94
+	 True Bounding Boxes: [369 387 433 463]
+	 True Logo Present: Toyota
+Image #94 Predictions:
+Image #: 95
+	 True Bounding Boxes: [360 388 446 477]
+	 True Logo Present: Toyota
+Image #95 Predictions:
+Image #: 96
+	 True Bounding Boxes: [362 424 444 497]
+	 True Logo Present: Toyota
+Image #96 Predictions:
+Image #: 97
+	 True Bounding Boxes: [346 321 458 397]
+	 True Logo Present: Toyota
+Image #97 Predictions:
+Image #: 98
+	 True Bounding Boxes: [357 370 446 448]
+	 True Logo Present: Toyota
+Image #98 Predictions:
+Image #: 99
+	 True Bounding Boxes: [356 402 440 485]
+	 True Logo Present: Toyota
+Image #99 Predictions:
+0.92365116
+		[373, 418, 434, 470, (61, 52)] toyota
+Image #: 100
+	 True Bounding Boxes: [364 402 437 471]
+	 True Logo Present: Toyota
+Image #100 Predictions:
+Image #: 101
+	 True Bounding Boxes: [400 377 461 432]
+	 True Logo Present: Toyota
+Image #101 Predictions:
+0.7954916
+		[399, 470, 425, 493, (26, 23)] Lamborghini
+Total Predictions: 551
+Correct: 101 	Incorrect:450

@@ -1,0 +1,14 @@
+After getting about 20 images for each car brand, we tried to implemenent a Faster RCNN
+model with respect to region proposal. However we ran into errors such as training on more
+than a single image and predictions relied entirely on the ground truth given to train on.
+Not to mention, the run time and implementatiom time daunted our capabilities and current
+time frame. 
+However, this issue was mitigated with the implementation of a basic RCNN model with respect
+to selective search, which was more than atiquate for the task on hand, with Faster RCNN
+being able to detect and recognize within 5 frames. At the time speaking, the HOG
+and SGDClassifier has ran into a minor problem, with it not training as well the other day,
+while using the exact same data. It is a shame that model was not saved due to forgetfullness.
+While the testing data is just the training data, its easy to see that more data will be
+needed to train on so that it may classify logo regions better for specific cases such as
+BMW. 
+Overall, progress has been good..

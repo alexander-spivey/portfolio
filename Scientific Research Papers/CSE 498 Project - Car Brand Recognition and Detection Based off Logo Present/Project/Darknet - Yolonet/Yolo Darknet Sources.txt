@@ -1,0 +1,5 @@
+https://www.youtube.com/watch?v=55kaTHcsoBk&list=PLyZBahNf39pfdOIHMEO74kNUna6EY82Dk&index=9
+https://medium.com/@thomas.lever.business/training-yolov3-convolutional-neural-networks-using-darknet-2f429858583c
+https://github.com/hankpark0706/darknet/blob/master/README.md#how-to-use
+https://github.com/pjreddie/darknet/blob/master/scripts/voc_label.py#L12
+https://www.youtube.com/watch?v=MCBKyL4yx30
